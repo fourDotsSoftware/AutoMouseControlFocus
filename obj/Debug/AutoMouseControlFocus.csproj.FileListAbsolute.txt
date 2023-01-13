@@ -1,0 +1,54 @@
+c:\code\Other\AutoMouseControlFocus\AutoMouseControlFocus\bin\Debug\AutoMouseControlFocus.exe.config
+c:\code\Other\AutoMouseControlFocus\AutoMouseControlFocus\bin\Debug\AutoMouseControlFocus.exe
+c:\code\Other\AutoMouseControlFocus\AutoMouseControlFocus\bin\Debug\AutoMouseControlFocus.pdb
+c:\code\Other\AutoMouseControlFocus\AutoMouseControlFocus\bin\Debug\com.4dots-software.download-software.dll
+c:\code\Other\AutoMouseControlFocus\AutoMouseControlFocus\bin\Debug\MouseKeyboardLibrary.dll
+c:\code\Other\AutoMouseControlFocus\AutoMouseControlFocus\bin\Debug\com.4dots-software.download-software.pdb
+c:\code\Other\AutoMouseControlFocus\AutoMouseControlFocus\bin\Debug\MouseKeyboardLibrary.pdb
+c:\code\Other\AutoMouseControlFocus\AutoMouseControlFocus\bin\Debug\Interop.MSScriptControl.dll
+c:\code\Other\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.csprojAssemblyReference.cache
+c:\code\Other\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\Interop.MSScriptControl.dll
+c:\code\Other\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.csproj.ResolveComReference.cache
+c:\code\Other\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.CustomForm.resources
+c:\code\Other\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.frmAbout.resources
+c:\code\Other\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.frmDownloadUpdate.resources
+c:\code\Other\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.frmError.resources
+c:\code\Other\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.frmLanguage.resources
+c:\code\Other\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.frmMain.resources
+c:\code\Other\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.frmMessageCheckbox.resources
+c:\code\Other\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.Properties.Resources.resources
+c:\code\Other\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.ResFlags.resources
+c:\code\Other\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.ucTextProgressBar.resources
+c:\code\Other\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.csproj.GenerateResource.cache
+c:\code\Other\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.csproj.CoreCompileInputs.cache
+c:\code\Other\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.csproj.CopyComplete
+c:\code\Other\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.exe
+c:\code\Other\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.pdb
+c:\code\Other\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.ResTranslate.resources
+c:\code\System Utilities\AutoMouseControlFocus\AutoMouseControlFocus\bin\Debug\AutoMouseControlFocus.exe.config
+c:\code\System Utilities\AutoMouseControlFocus\AutoMouseControlFocus\bin\Debug\AutoMouseControlFocus.exe
+c:\code\System Utilities\AutoMouseControlFocus\AutoMouseControlFocus\bin\Debug\AutoMouseControlFocus.pdb
+c:\code\System Utilities\AutoMouseControlFocus\AutoMouseControlFocus\bin\Debug\com.4dots-software.download-software.dll
+c:\code\System Utilities\AutoMouseControlFocus\AutoMouseControlFocus\bin\Debug\MouseKeyboardLibrary.dll
+c:\code\System Utilities\AutoMouseControlFocus\AutoMouseControlFocus\bin\Debug\com.4dots-software.download-software.pdb
+c:\code\System Utilities\AutoMouseControlFocus\AutoMouseControlFocus\bin\Debug\MouseKeyboardLibrary.pdb
+c:\code\System Utilities\AutoMouseControlFocus\AutoMouseControlFocus\bin\Debug\Interop.MSScriptControl.dll
+c:\code\System Utilities\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.csprojAssemblyReference.cache
+c:\code\System Utilities\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\Interop.MSScriptControl.dll
+c:\code\System Utilities\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.csproj.ResolveComReference.cache
+c:\code\System Utilities\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.CustomForm.resources
+c:\code\System Utilities\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.frmAbout.resources
+c:\code\System Utilities\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.frmDownloadUpdate.resources
+c:\code\System Utilities\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.frmError.resources
+c:\code\System Utilities\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.frmLanguage.resources
+c:\code\System Utilities\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.frmMain.resources
+c:\code\System Utilities\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.frmMessageCheckbox.resources
+c:\code\System Utilities\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.Properties.Resources.resources
+c:\code\System Utilities\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.ResFlags.resources
+c:\code\System Utilities\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.ResTranslate.resources
+c:\code\System Utilities\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.ucTextProgressBar.resources
+c:\code\System Utilities\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.csproj.GenerateResource.cache
+c:\code\System Utilities\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.csproj.CoreCompileInputs.cache
+c:\code\System Utilities\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.csproj.CopyComplete
+c:\code\System Utilities\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.exe
+c:\code\System Utilities\AutoMouseControlFocus\AutoMouseControlFocus\obj\Debug\AutoMouseControlFocus.pdb

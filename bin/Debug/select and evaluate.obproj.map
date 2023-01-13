@@ -1,0 +1,702 @@
+﻿<Mappings><Entry OldName="AutoMouseControlFocus.CustomForm.LoadComplete" NewName="A.cf45d290d050e09d3f2b993b9f15b3472.c66723e9d891cc32f40d249cd1aed5824" />
+<Entry OldName="AutoMouseControlFocus.CustomForm.BackGroundImg" NewName="A.cf45d290d050e09d3f2b993b9f15b3472.c1c07e01a4f7844c97af9946154524282" />
+<Entry OldName="AutoMouseControlFocus.CustomForm.GradientBackground" NewName="A.cf45d290d050e09d3f2b993b9f15b3472.c3aaba7edc543ed8dd461cbc27a5176fa" />
+<Entry OldName="AutoMouseControlFocus.CustomForm.tooltip" NewName="A.cf45d290d050e09d3f2b993b9f15b3472.cda9027a4e7ac69137d149e3da0a1f7f1" />
+<Entry OldName="AutoMouseControlFocus.CustomForm.components" NewName="A.cf45d290d050e09d3f2b993b9f15b3472.c6c09ca483bf35dc526eac18522614aa9" />
+<Entry OldName="AutoMouseControlFocus.frmAbout.lblf" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c4c6e25c47a12d7f739a97a3bc1235906" />
+<Entry OldName="AutoMouseControlFocus.frmAbout.bufluf" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c804117dca9fa6b2514f8b4252b192ea1" />
+<Entry OldName="AutoMouseControlFocus.frmAbout.lstbufluf" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c03517c2c5af966017b613cd14f92c73a" />
+<Entry OldName="AutoMouseControlFocus.frmAbout.LDT" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c522c636e4cfe3a05dc41a840d64b7f46" />
+<Entry OldName="AutoMouseControlFocus.frmAbout.components" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c6c09ca483bf35dc526eac18522614aa9" />
+<Entry OldName="AutoMouseControlFocus.frmAbout.lblAbout" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c3b6b7314cf70c9e79f9abbbf128e7eb1" />
+<Entry OldName="AutoMouseControlFocus.frmAbout.btnClose" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c3c421ca3bfe937ea8536792042e1925f" />
+<Entry OldName="AutoMouseControlFocus.frmAbout.pictureBox1" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c36cca590446da6005c61b01dbe55d0b5" />
+<Entry OldName="AutoMouseControlFocus.frmAbout.linkLabel1" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c3c4aa49085152b50c4c64837f8abb9e8" />
+<Entry OldName="AutoMouseControlFocus.frmAbout.label1" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c9f2d99954e6e6780d9523993dba5e574" />
+<Entry OldName="AutoMouseControlFocus.frmAbout.label2" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c47db3fdc6719488e6c4ad52de96ac5fe" />
+<Entry OldName="AutoMouseControlFocus.frmAbout.linkLabel2" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.cc009fe76b2d2bd121e47681453ea3577" />
+<Entry OldName="AutoMouseControlFocus.frmAbout.niceLine1" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.ca412db5776a91de066e788d2f7678f6e" />
+<Entry OldName="AutoMouseControlFocus.frmAbout.niceLine3" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c21e75cd0478fcd544f8a4d63b5037f69" />
+<Entry OldName="AutoMouseControlFocus.frmAbout.label3" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c9d6271043dba4174dfaf7c6443f145fb" />
+<Entry OldName="AutoMouseControlFocus.frmAbout.ullProductWebpage" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.cb02770b1ff6fb7bd5547d4c300417495" />
+<Entry OldName="AutoMouseControlFocus.frmAbout.lblRegistered" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.caf31a574f54b304072a9a13ab183d664" />
+<Entry OldName="AutoMouseControlFocus.frmAbout.btnDonate" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.cd5fa4ae1bede04d92c58d011f2adc389" />
+<Entry OldName="AutoMouseControlFocus.frmAbout.niceLine2" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c8181171cfffbc4ac56e1dcfcb57ad089" />
+<Entry OldName="AutoMouseControlFocus.frmAbout.niceLine4" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c6e04900d91afe2f89a0479c86d02bd87" />
+<Entry OldName="AutoMouseControlFocus.frmAbout.label4" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c1596fbe9953dfc799b98ae2242ae9e06" />
+<Entry OldName="AutoMouseControlFocus.frmAbout.urlLinkLabel1" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.cd44d77e0bdc480a228ab0f6b3ca2a41a" />
+<Entry OldName="AutoMouseControlFocus.frmDownloadUpdate._DownloadFile" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.c1958444f0dac62ce3b7dbcbc6e6d2597" />
+<Entry OldName="AutoMouseControlFocus.frmDownloadUpdate.client" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.c0ea72a95c5f316e57869018101e193d3" />
+<Entry OldName="AutoMouseControlFocus.frmDownloadUpdate.Cancelled" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.ca16b3e275edecc43683739f1267f831b" />
+<Entry OldName="AutoMouseControlFocus.frmDownloadUpdate.components" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.c6c09ca483bf35dc526eac18522614aa9" />
+<Entry OldName="AutoMouseControlFocus.frmDownloadUpdate.pgBar" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.c9589f272e18926fc5c8296eceb1336e9" />
+<Entry OldName="AutoMouseControlFocus.frmDownloadUpdate.btnCancelDownload" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.ccf075abe63986ec7e1bc81bee66f4af6" />
+<Entry OldName="AutoMouseControlFocus.frmDownloadUpdate.bwDownload" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.cd9eed5fe707b817c8e8996e28cafa5a7" />
+<Entry OldName="AutoMouseControlFocus.frmDownloadUpdate.label1" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.c9f2d99954e6e6780d9523993dba5e574" />
+<Entry OldName="AutoMouseControlFocus.frmDownloadUpdate.lblTotalSize" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.c5823a475bd7558ab1f490fdb21a88ab1" />
+<Entry OldName="AutoMouseControlFocus.frmError.components" NewName="A.cae9574d1518bacf095666b9dd2e78ddb.c6c09ca483bf35dc526eac18522614aa9" />
+<Entry OldName="AutoMouseControlFocus.frmError.txtError" NewName="A.cae9574d1518bacf095666b9dd2e78ddb.cf049f6fcfeba2e2aa6164090dc57c9ac" />
+<Entry OldName="AutoMouseControlFocus.frmError.pictureBox1" NewName="A.cae9574d1518bacf095666b9dd2e78ddb.c36cca590446da6005c61b01dbe55d0b5" />
+<Entry OldName="AutoMouseControlFocus.frmError.lblError" NewName="A.cae9574d1518bacf095666b9dd2e78ddb.c1f103939cca1ccfc9e8f4dcc5ad6c539" />
+<Entry OldName="AutoMouseControlFocus.frmError.btnClose" NewName="A.cae9574d1518bacf095666b9dd2e78ddb.c3c421ca3bfe937ea8536792042e1925f" />
+<Entry OldName="AutoMouseControlFocus.frmMain.keyboardHook" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c77a9207372d52b71c3bac827b01aa5e4" />
+<Entry OldName="AutoMouseControlFocus.frmMain.HotKeyChar" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.ca5c9b2e20d49f415bff8cad87e7c9a66" />
+<Entry OldName="AutoMouseControlFocus.frmMain.ControlCIsPressed" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c7d3169973d5d1ad402ffd04d37f19d26" />
+<Entry OldName="AutoMouseControlFocus.frmMain.sc" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c57f5809e6a7245c6b9c81c6ca2dbe4a9" />
+<Entry OldName="AutoMouseControlFocus.frmMain.FreeForPersonalUse" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.ce8cf6b6ae26ecaeb287af933edb555d8" />
+<Entry OldName="AutoMouseControlFocus.frmMain.FreeForPersonalAndCommercialUse" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c1c744d1a91494660c2508574bc043eaa" />
+<Entry OldName="AutoMouseControlFocus.frmMain.components" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c6c09ca483bf35dc526eac18522614aa9" />
+<Entry OldName="AutoMouseControlFocus.frmMain.notMain" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c9253a9d7c5cd80e2d370f9b222cb0ebf" />
+<Entry OldName="AutoMouseControlFocus.frmMain.label1" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c9f2d99954e6e6780d9523993dba5e574" />
+<Entry OldName="AutoMouseControlFocus.frmMain.label2" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c47db3fdc6719488e6c4ad52de96ac5fe" />
+<Entry OldName="AutoMouseControlFocus.frmMain.txtHotKey" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c7c11a2170e8a3f1dcbadfa17f7ed60fc" />
+<Entry OldName="AutoMouseControlFocus.frmMain.label3" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c9d6271043dba4174dfaf7c6443f145fb" />
+<Entry OldName="AutoMouseControlFocus.frmMain.msMain" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.cabe4ddf961b072bb5dd1b9b42f701645" />
+<Entry OldName="AutoMouseControlFocus.frmMain.fileToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c2fe9f94b692a7bfcf37e2a98be86e178" />
+<Entry OldName="AutoMouseControlFocus.frmMain.exitToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c7d0a8e1156192c1c10b9533116e1ff53" />
+<Entry OldName="AutoMouseControlFocus.frmMain.helpToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c9f6d33acf954dc3f434dab857cbb2a5b" />
+<Entry OldName="AutoMouseControlFocus.frmMain.helpGuideToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c0dcaea0d585cf39a47b907697094bf01" />
+<Entry OldName="AutoMouseControlFocus.frmMain.pleaseDonateToolStripMenuItem1" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c5f555657e79c38b4750a30955f8f942e" />
+<Entry OldName="AutoMouseControlFocus.frmMain.dotsSoftwarePRODUCTCATALOGToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c70d9e4f251ecc2edf03546be0de396ac" />
+<Entry OldName="AutoMouseControlFocus.frmMain.checkForNewVersionEachWeekToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.ce2b251267ea38d6f1f88daa4d04e9adb" />
+<Entry OldName="AutoMouseControlFocus.frmMain.tiHelpFeedback" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c58d4cca1a28db144d0b690a8b0e8993c" />
+<Entry OldName="AutoMouseControlFocus.frmMain.checkForNewVersionToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.cb9f168ab99d84c43fb8fccd0a8dd79fa" />
+<Entry OldName="AutoMouseControlFocus.frmMain.toolStripMenuItem1" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.ced05832e0cbfba6c005b147856b12b41" />
+<Entry OldName="AutoMouseControlFocus.frmMain.followUsOnTwitterToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c19ba640988a7009a7f6159e7f3929f55" />
+<Entry OldName="AutoMouseControlFocus.frmMain.visit4dotsSoftwareWebsiteToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c0b6098415cd2c763f993265b8848c112" />
+<Entry OldName="AutoMouseControlFocus.frmMain.youtubeChannelToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c52a184c5e4ba49b10b3c8d8a3b400fd0" />
+<Entry OldName="AutoMouseControlFocus.frmMain.aboutToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c793f666c1936ec43cdc0be5739870784" />
+<Entry OldName="AutoMouseControlFocus.frmMain.btnClose" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c3c421ca3bfe937ea8536792042e1925f" />
+<Entry OldName="AutoMouseControlFocus.frmMain.downloadSoftwareToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.cf672284be8c08e60f23d8637bd70f334" />
+<Entry OldName="AutoMouseControlFocus.frmMain.label4" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c1596fbe9953dfc799b98ae2242ae9e06" />
+<Entry OldName="AutoMouseControlFocus.frmMain.txtTestBox" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c148a24a4f27d13ebbf7fca2e25d26b1e" />
+<Entry OldName="AutoMouseControlFocus.frmMain.optionsToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.cae20afce972c2c7303d1c4179e0fc012" />
+<Entry OldName="AutoMouseControlFocus.frmMain.runAtWindowsStartupToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c5757c1c101287ee184c4e240567a614f" />
+<Entry OldName="AutoMouseControlFocus.frmMain.cmsMain" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.cba796d55f6baa99ca6dcc94f24a3a87a" />
+<Entry OldName="AutoMouseControlFocus.frmMain.openToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c7bb030c0aa61c8eb4fb9d98b358178d6" />
+<Entry OldName="AutoMouseControlFocus.frmMain.exitToolStripMenuItem1" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c44393ac62bc8016e4957139f85d72e4e" />
+<Entry OldName="AutoMouseControlFocus.frmMain.toolStripMenuItem3" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c1ff9b4f9ca6f6b02d9e67a5d13d6a50f" />
+<Entry OldName="AutoMouseControlFocus.frmMain.copyToClipboardResultToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c2f1df175b252a241d83658f37d7fd821" />
+<Entry OldName="AutoMouseControlFocus.frmMain.pasteResultToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c7a6bd839c7ae7c34642995750afde5c9" />
+<Entry OldName="AutoMouseControlFocus.frmMain.minimizeToWindowsSystemTrayToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c3438e1bc6dc4762172a147f43932d76d" />
+<Entry OldName="AutoMouseControlFocus.frmMain.chkControl" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c44bb985c2cdaf7f439cf2418acea6f92" />
+<Entry OldName="AutoMouseControlFocus.frmMain.chkAlt" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c4e1b3232e8d683f1a96218ca54b7ea86" />
+<Entry OldName="AutoMouseControlFocus.frmMain.chkShift" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.cab063b3ae8717e31b1c6670c9378d89b" />
+<Entry OldName="AutoMouseControlFocus.frmMessageCheckbox.components" NewName="A.c4317fa90830b5c38ba663c3c1ca1d5a1.c6c09ca483bf35dc526eac18522614aa9" />
+<Entry OldName="AutoMouseControlFocus.frmMessageCheckbox.chkOption" NewName="A.c4317fa90830b5c38ba663c3c1ca1d5a1.c3fe1d1b6fbf2a48695dd81424b02a5bf" />
+<Entry OldName="AutoMouseControlFocus.frmMessageCheckbox.lblOption" NewName="A.c4317fa90830b5c38ba663c3c1ca1d5a1.c020c4228c1650b8f9047ebd1f1c09dd4" />
+<Entry OldName="AutoMouseControlFocus.frmMessageCheckbox.btnOK" NewName="A.c4317fa90830b5c38ba663c3c1ca1d5a1.c5c1fe7e1df10f9fbb6464cb65a4d999e" />
+<Entry OldName="AutoMouseControlFocus.Module.BlueForeColor" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c1e7fb083e54c837af589c6f53b270d37" />
+<Entry OldName="AutoMouseControlFocus.Module.ApplicationName" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c5844f94059df260d95762b6ecb4c70b9" />
+<Entry OldName="AutoMouseControlFocus.Module.Version" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.ca865853022ac9f1a8e59f93c976c70f1" />
+<Entry OldName="AutoMouseControlFocus.Module.Ver" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c9c2de6577d54303e0a1f39e70e18a4dd" />
+<Entry OldName="AutoMouseControlFocus.Module.ShortApplicationTitle" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.cc3c281d018df7e85ed95e5609d524d03" />
+<Entry OldName="AutoMouseControlFocus.Module.ApplicationTitle" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c127422c0663d81fd3e6e2fde9a164fa3" />
+<Entry OldName="AutoMouseControlFocus.Module.DownloadURL" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c45b144149cee39f0d48354cb25c62fda" />
+<Entry OldName="AutoMouseControlFocus.Module.HelpURL" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c00c74539a087de44afee6ea80999dd29" />
+<Entry OldName="AutoMouseControlFocus.Module.ProductWebpageURL" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c298d43694c29ae26e2d1fe41beb5cddc" />
+<Entry OldName="AutoMouseControlFocus.Module.BuyURL" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c0b67c0d3b2abe3e94f3e43d13e18524f" />
+<Entry OldName="AutoMouseControlFocus.Module.VersionURL" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.ce3075ffb8128b078eebebfdbf57a7190" />
+<Entry OldName="AutoMouseControlFocus.Module.NumberOfFilesProcessed" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.ca6c1bedb26a016857ad60bdf62b33ec7" />
+<Entry OldName="AutoMouseControlFocus.Module.TipText" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c2e7131f8c73a16543d6458be8c2f59ae" />
+<Entry OldName="AutoMouseControlFocus.Module.SelectedLanguage" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c565cb21e811b5e907b88972068aa1d4a" />
+<Entry OldName="AutoMouseControlFocus.Module.args" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c2aa5276c470002d0568558ea9fbdf153" />
+<Entry OldName="AutoMouseControlFocus.NiceLine.components" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.c6c09ca483bf35dc526eac18522614aa9" />
+<Entry OldName="AutoMouseControlFocus.NiceLine._Caption" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.c1e373409295b748a00238079ab56187a" />
+<Entry OldName="AutoMouseControlFocus.NiceLine._CaptionMarginSpace" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.cb6488d44df74682db3e3cc6d22dc4e8c" />
+<Entry OldName="AutoMouseControlFocus.NiceLine._CaptionPadding" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.cb0a92c15daa1b27265038ca40c4ef72d" />
+<Entry OldName="AutoMouseControlFocus.NiceLine._LineVerticalAlign" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.cb65fedb8bfac77d6117fd2e35b5e55c4" />
+<Entry OldName="AutoMouseControlFocus.NiceLine._CaptionOrizontalAlign" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.c9b0f18b7c637d762908c09f4e8a6f6df" />
+<Entry OldName="AutoMouseControlFocus.LineVerticalAlign.value__" NewName="A.c1fba512c73e89e3cd7592235bf68737e.value__" />
+<Entry OldName="AutoMouseControlFocus.LineVerticalAlign.Top" NewName="A.c1fba512c73e89e3cd7592235bf68737e.c1a1592c80dbc80ab14dae01037883ee4" />
+<Entry OldName="AutoMouseControlFocus.LineVerticalAlign.Middle" NewName="A.c1fba512c73e89e3cd7592235bf68737e.c9a57b8fb0c3036a8c170ce584f9886c1" />
+<Entry OldName="AutoMouseControlFocus.LineVerticalAlign.Bottom" NewName="A.c1fba512c73e89e3cd7592235bf68737e.c2bb827966427c91e425da79bc5ea1d02" />
+<Entry OldName="AutoMouseControlFocus.CaptionOrizontalAlign.value__" NewName="A.cc236d2e2c45be8b92c64d6df79ac6317.value__" />
+<Entry OldName="AutoMouseControlFocus.CaptionOrizontalAlign.Left" NewName="A.cc236d2e2c45be8b92c64d6df79ac6317.c1021126067490bd96942dc9287c196e4" />
+<Entry OldName="AutoMouseControlFocus.CaptionOrizontalAlign.Center" NewName="A.cc236d2e2c45be8b92c64d6df79ac6317.c73d0003cceb368002f8362a6d15d7726" />
+<Entry OldName="AutoMouseControlFocus.CaptionOrizontalAlign.Right" NewName="A.cc236d2e2c45be8b92c64d6df79ac6317.c0f761b26624467524f3e18b3ef0f5abe" />
+<Entry OldName="AutoMouseControlFocus.ucTextProgressBar.lblText" NewName="A.c94455cbc55750d70580b4effcf56d1e4.c7f94e059da95f0cc72cb7ce50598af8b" />
+<Entry OldName="AutoMouseControlFocus.ucTextProgressBar.WmPaint" NewName="A.c94455cbc55750d70580b4effcf56d1e4.cfc52fd64767cdbeed06f8ddce76db6fa" />
+<Entry OldName="AutoMouseControlFocus.ucTextProgressBar.components" NewName="A.c94455cbc55750d70580b4effcf56d1e4.c6c09ca483bf35dc526eac18522614aa9" />
+<Entry OldName="AutoMouseControlFocus.UpdateHelper.bwCheckVersion" NewName="A.c90fea82130ee16c91ac1affdc7f73c89.c017b412f97c38b14a9d80c0e8d829d1a" />
+<Entry OldName="AutoMouseControlFocus.CheckVersionResult.NewVersionReleased" NewName="A.c4d3a70f9cd26d69f7afd3a9c35c15d98.cb8f42af0db673d9c4f3d56f3526c3afc" />
+<Entry OldName="AutoMouseControlFocus.CheckVersionResult.ItIsNecessaryToUpdate" NewName="A.c4d3a70f9cd26d69f7afd3a9c35c15d98.c8af6fb477af13106e42b55cb4f5f9d8f" />
+<Entry OldName="AutoMouseControlFocus.CheckVersionResult.OutputMessage" NewName="A.c4d3a70f9cd26d69f7afd3a9c35c15d98.c3d5581eda9f2e42ae95dd35686ed5f7f" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.resourceMan" NewName="A.c43e4afe39b031d9bb10a751d840508ba.caa7b336ab7c5bbc7d72b50dedcd50fbb" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.resourceCulture" NewName="A.c43e4afe39b031d9bb10a751d840508ba.ce3ba00f3d66adf35f9066330bf1ed395" />
+<Entry OldName="AutoMouseControlFocus.CustomForm..ctor()" NewName="A.cf45d290d050e09d3f2b993b9f15b3472..ctor()" />
+<Entry OldName="AutoMouseControlFocus.CustomForm.OnResize(EventArgs e)" NewName="A.cf45d290d050e09d3f2b993b9f15b3472.OnResize(EventArgs e)" />
+<Entry OldName="AutoMouseControlFocus.CustomForm.OnPaintBackground(PaintEventArgs e)" NewName="A.cf45d290d050e09d3f2b993b9f15b3472.OnPaintBackground(PaintEventArgs e)" />
+<Entry OldName="AutoMouseControlFocus.CustomForm.OnLoad(EventArgs e)" NewName="A.cf45d290d050e09d3f2b993b9f15b3472.OnLoad(EventArgs e)" />
+<Entry OldName="AutoMouseControlFocus.CustomForm.CustomForm_Activated(Object sender, EventArgs e)" NewName="A.cf45d290d050e09d3f2b993b9f15b3472.c8e1027a7c5e6781e8201aef36bf7fec9(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.CustomForm.OnActivated(EventArgs e)" NewName="A.cf45d290d050e09d3f2b993b9f15b3472.OnActivated(EventArgs e)" />
+<Entry OldName="AutoMouseControlFocus.CustomForm.ResizeControls()" NewName="A.cf45d290d050e09d3f2b993b9f15b3472.caa0752c11bf61c27b1873ba8f6e282e5()" />
+<Entry OldName="AutoMouseControlFocus.CustomForm.ResizeChildControls(Control co)" NewName="A.cf45d290d050e09d3f2b993b9f15b3472.cd7fa1a7efe86469b40b678418bfc2b1f(Control cf778a91267339701dbc22a9d693e2a56)" />
+<Entry OldName="AutoMouseControlFocus.CustomForm.Dispose(Boolean disposing)" NewName="A.cf45d290d050e09d3f2b993b9f15b3472.Dispose(Boolean disposing)" />
+<Entry OldName="AutoMouseControlFocus.CustomForm.InitializeComponent()" NewName="A.cf45d290d050e09d3f2b993b9f15b3472.c8cd1efce0e3362ecdb08ac865e5255ef()" />
+<Entry OldName="AutoMouseControlFocus.ExceptionHandlersHelper..ctor()" NewName="A.c5adea92bc8528127188148270b7f7b8c..ctor()" />
+<Entry OldName="AutoMouseControlFocus.ExceptionHandlersHelper.AddUnhandledExceptionHandlers()" NewName="A.c5adea92bc8528127188148270b7f7b8c.c4cf8543b55e92a325c9cdd7e63507114()" />
+<Entry OldName="AutoMouseControlFocus.ExceptionHandlersHelper.myExceptionHandler(Object sender, UnhandledExceptionEventArgs e)" NewName="A.c5adea92bc8528127188148270b7f7b8c.cc015d0311da48e5dd6423b9eb013162e(Object c85aed36de41247a0fb3396b188018af8, UnhandledExceptionEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.ExceptionHandlersHelper.myThreadExceptionHandler(Object sender, ThreadExceptionEventArgs e)" NewName="A.c5adea92bc8528127188148270b7f7b8c.c99a2788ebe4a4b0244579a9076941a23(Object c85aed36de41247a0fb3396b188018af8, ThreadExceptionEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmAbout..ctor()" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a..ctor()" />
+<Entry OldName="AutoMouseControlFocus.frmAbout..cctor()" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a..cctor()" />
+<Entry OldName="AutoMouseControlFocus.frmAbout.frmAbout_Load(Object sender, EventArgs e)" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.caaa167bf9fab4e0f2d216f86966a27be(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmAbout.btnClose_Click(Object sender, EventArgs e)" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c3a719807626fba4a0340647e4fa953e5(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmAbout.btnDonate_Click(Object sender, EventArgs e)" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c528f04e0259c988382b836cc30351a81(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmAbout.Dispose(Boolean disposing)" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.Dispose(Boolean disposing)" />
+<Entry OldName="AutoMouseControlFocus.frmAbout.InitializeComponent()" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c8cd1efce0e3362ecdb08ac865e5255ef()" />
+<Entry OldName="AutoMouseControlFocus.frmDownloadUpdate..ctor()" NewName="A.cf0a052401509b5fe1a216c3facb67c5f..ctor()" />
+<Entry OldName="AutoMouseControlFocus.frmDownloadUpdate.get_DownloadFile()" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.get_cecd1f3bc9c07279a7d8e1cb6c0a5f3ec()" />
+<Entry OldName="AutoMouseControlFocus.frmDownloadUpdate.get_DownloadURL()" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.get_c45b144149cee39f0d48354cb25c62fda()" />
+<Entry OldName="AutoMouseControlFocus.frmDownloadUpdate.frmDownloadUpdate_Load(Object sender, EventArgs e)" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.c5edfae84633a20936fa51c40e9a5e3e6(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmDownloadUpdate.client_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.c608191a8c3c89cdeac89a69a5f68d34e(Object c85aed36de41247a0fb3396b188018af8, AsyncCompletedEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmDownloadUpdate.client_DownloadProgressChanged(Object sender, DownloadProgressChangedEventArgs e)" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.c79c836d6d92087f925611f378bafa516(Object c85aed36de41247a0fb3396b188018af8, DownloadProgressChangedEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmDownloadUpdate.GetEXEDownloadURL()" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.cc92ace5a60f6a8fee47e43a48b5d36e2()" />
+<Entry OldName="AutoMouseControlFocus.frmDownloadUpdate.btnCancelDownload_Click(Object sender, EventArgs e)" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.c8ee7c66c0f3e1ebf72f2a3c3670ff7fe(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmDownloadUpdate.Dispose(Boolean disposing)" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.Dispose(Boolean disposing)" />
+<Entry OldName="AutoMouseControlFocus.frmDownloadUpdate.InitializeComponent()" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.c8cd1efce0e3362ecdb08ac865e5255ef()" />
+<Entry OldName="AutoMouseControlFocus.frmError..ctor(String lbl, String txt)" NewName="A.cae9574d1518bacf095666b9dd2e78ddb..ctor(String cab1961f054e174cc6fab59dc1d00376c, String cbdeafa9f3836457e3eb5ebc3bf345424)" />
+<Entry OldName="AutoMouseControlFocus.frmError.btnClose_Click(Object sender, EventArgs e)" NewName="A.cae9574d1518bacf095666b9dd2e78ddb.c3a719807626fba4a0340647e4fa953e5(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmError.Dispose(Boolean disposing)" NewName="A.cae9574d1518bacf095666b9dd2e78ddb.Dispose(Boolean disposing)" />
+<Entry OldName="AutoMouseControlFocus.frmError.InitializeComponent()" NewName="A.cae9574d1518bacf095666b9dd2e78ddb.c8cd1efce0e3362ecdb08ac865e5255ef()" />
+<Entry OldName="AutoMouseControlFocus.frmMain..ctor()" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa..ctor()" />
+<Entry OldName="AutoMouseControlFocus.frmMain.frmMain_Load(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c0a6673cf8f46f4cb3565e404f5347ca6(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.keyboardHook_KeyPress(Object sender, KeyPressEventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c13befe75d92c97dd3848fb706983cf84(Object c85aed36de41247a0fb3396b188018af8, KeyPressEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.keyboardHook_KeyUp(Object sender, KeyEventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c39725dc1400b6a0a6e9c10a127103285(Object c85aed36de41247a0fb3396b188018af8, KeyEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.keyboardHook_KeyDown(Object sender, KeyEventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c70e2572c9cb72df9efbe70e44912b31c(Object c85aed36de41247a0fb3396b188018af8, KeyEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.Calculate()" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c6f91a685695d7e4feeec5e60434b3c53()" />
+<Entry OldName="AutoMouseControlFocus.frmMain.txtHotKey_KeyPress(Object sender, KeyPressEventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c9b4c9637ea533ffb4ef11391987ac7ff(Object c85aed36de41247a0fb3396b188018af8, KeyPressEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.helpGuideToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.cf0fed7498377bb5f27a724f0346eecff(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.pleaseDonateToolStripMenuItem1_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c80951af1a9158a671d2611b65435f7b8(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c8ddb14bc5ae9377343602a7c7d5667b3(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.checkForNewVersionEachWeekToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c8f17ee2d1e840174534e1b319b21e0d5(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.tiHelpFeedback_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c268caa7c55612fb0bd4592896f934f22(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.checkForNewVersionToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c5bf821ec13548f6a1156496a7a9c5821(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.followUsOnTwitterToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c1adbc2af8285805175b8b658ca0ae6d2(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.visit4dotsSoftwareWebsiteToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.cc69f4012f5b87dcc03c8c8aa6af0055a(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.youtubeChannelToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c1fd55a3193cd061b14e0ee6f53f90b2b(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.aboutToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c3659e3ce10ae8d5b5505aad8a7f0d151(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.exitToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c39b4ff8e288a31744c9bab83b6fb2efc(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.minimizeToWindowsSystemTrayToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c791865fe62333d120307cb3f8785c8bd(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.notMain_MouseDoubleClick(Object sender, MouseEventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.cc95d3370106046def8f2416551da3e85(Object c85aed36de41247a0fb3396b188018af8, MouseEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.btnClose_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c3a719807626fba4a0340647e4fa953e5(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.txtHotKey_Enter(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c5ad5f89947dab19a8d446a6124b97e04(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.frmMain_Resize(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c68dd6ab00ffe3f68e212ce02d44c7bc3(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.txtHotKey_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.cd798eda97b98229e51d0944a035c63d3(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.txtHotKey_Validating(Object sender, CancelEventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.cf181886a8d9ab65917e3a9d864496aae(Object c85aed36de41247a0fb3396b188018af8, CancelEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.txtHotKey_KeyDown(Object sender, KeyEventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c5623d8ecd7f6fbafa9f501639b3e5385(Object c85aed36de41247a0fb3396b188018af8, KeyEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.exitToolStripMenuItem1_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.cc764e68dfd75c3d412ac23f03276eebf(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.openToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.cfd7940a71637b80a5f4ed16e4ebca5d7(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.runAtWindowsStartupToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c7bb749a43d7fa0c1eb0302aabebfb905(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.SetTitle()" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c9c5a45c09195b7fe7be9db998a235963()" />
+<Entry OldName="AutoMouseControlFocus.frmMain.copyToClipboardResultToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c8bb19c06a3e42b5c6c6c22b177781b6c(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.pasteResultToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c53908b2c43d56b1b22e5708986dfd5b4(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.Dispose(Boolean disposing)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.Dispose(Boolean disposing)" />
+<Entry OldName="AutoMouseControlFocus.frmMain.InitializeComponent()" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c8cd1efce0e3362ecdb08ac865e5255ef()" />
+<Entry OldName="AutoMouseControlFocus.frmMessageCheckbox..ctor()" NewName="A.c4317fa90830b5c38ba663c3c1ca1d5a1..ctor()" />
+<Entry OldName="AutoMouseControlFocus.frmMessageCheckbox..ctor(String title, String lblDesc)" NewName="A.c4317fa90830b5c38ba663c3c1ca1d5a1..ctor(String c34eb1c44a120a0298378b33d69158d8d, String c7758ec55ae90727e629f5c6ce236a315)" />
+<Entry OldName="AutoMouseControlFocus.frmMessageCheckbox..ctor(String title, String lblDesc, String chkDesc)" NewName="A.c4317fa90830b5c38ba663c3c1ca1d5a1..ctor(String c34eb1c44a120a0298378b33d69158d8d, String c7758ec55ae90727e629f5c6ce236a315, String c467eb37ceb82297a7ef571b364dfaea5)" />
+<Entry OldName="AutoMouseControlFocus.frmMessageCheckbox.btnOK_Click(Object sender, EventArgs e)" NewName="A.c4317fa90830b5c38ba663c3c1ca1d5a1.cd46527412781c1fb780b3ca88d9a15fc(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMessageCheckbox.ShowStartupGuideMessage()" NewName="A.c4317fa90830b5c38ba663c3c1ca1d5a1.c0e2c72cc3da344244e6b5594e830d7cf()" />
+<Entry OldName="AutoMouseControlFocus.frmMessageCheckbox.ShowTimeOutValueRegistry()" NewName="A.c4317fa90830b5c38ba663c3c1ca1d5a1.c30a9703af02fddd221e092f0f5a54be7()" />
+<Entry OldName="AutoMouseControlFocus.frmMessageCheckbox.frmMessageCheckbox_Load(Object sender, EventArgs e)" NewName="A.c4317fa90830b5c38ba663c3c1ca1d5a1.c8f2046c8f68966f4486ea95d243807e4(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.frmMessageCheckbox.Dispose(Boolean disposing)" NewName="A.c4317fa90830b5c38ba663c3c1ca1d5a1.Dispose(Boolean disposing)" />
+<Entry OldName="AutoMouseControlFocus.frmMessageCheckbox.InitializeComponent()" NewName="A.c4317fa90830b5c38ba663c3c1ca1d5a1.c8cd1efce0e3362ecdb08ac865e5255ef()" />
+<Entry OldName="AutoMouseControlFocus.Module..ctor()" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80..ctor()" />
+<Entry OldName="AutoMouseControlFocus.Module..cctor()" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80..cctor()" />
+<Entry OldName="AutoMouseControlFocus.Module.SendMessage(IntPtr hWnd, Int32 wMsg, Int32 wParam, Int32 lParam)" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.cb91d4d7be4379cdb8e0ccd42a567764e(IntPtr ccbd6bf72b0798c5ba9b482fe6b1be01c, Int32 c9c98a6eb81d73909939dae49078e5dbb, Int32 c471b7b0f338ff25e0f8ce5726ffa51fe, Int32 c5468d45f1a997261d58882bb3af63097)" />
+<Entry OldName="AutoMouseControlFocus.Module.LockWindowUpdate(IntPtr hWndLock)" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.ce720ff52920dd7908235e7bf50b88a0f(IntPtr cd458fa71536394a86c21bc063c764ad7)" />
+<Entry OldName="AutoMouseControlFocus.Module.WaitNMSeconds(Int32 mseconds)" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.ce0bcf81cd95aa9dd80ccf48536f5f3ac(Int32 c04af250a80bbc32db96ad5b09ddd4bde)" />
+<Entry OldName="AutoMouseControlFocus.Module.ShowMessage(String msg)" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c4e924a5ec666d2d0de0cde8af6d2c0d9(String c0194d329765e04c6fffee186417690cc)" />
+<Entry OldName="AutoMouseControlFocus.Module.ShowQuestionDialog(String msg, String caption)" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.ca8ca4efca7d6667c15b2bb19e1da31aa(String c0194d329765e04c6fffee186417690cc, String c16fc5eed863b3e02b79d889f869d76a6)" />
+<Entry OldName="AutoMouseControlFocus.Module.ShowError(Exception ex)" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c3b987037ead1a43b9c8629727513513a(Exception c01419236d7de97223b45e1a8a05d5c61)" />
+<Entry OldName="AutoMouseControlFocus.Module.ShowError(String msg)" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c3b987037ead1a43b9c8629727513513a(String c0194d329765e04c6fffee186417690cc)" />
+<Entry OldName="AutoMouseControlFocus.Module.ShowError(String msg, Exception ex)" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c3b987037ead1a43b9c8629727513513a(String c0194d329765e04c6fffee186417690cc, Exception c01419236d7de97223b45e1a8a05d5c61)" />
+<Entry OldName="AutoMouseControlFocus.Module.ShowError(String msg, String exstr)" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c3b987037ead1a43b9c8629727513513a(String c0194d329765e04c6fffee186417690cc, String c25186e28de6da28f3a09b5082612ce4b)" />
+<Entry OldName="AutoMouseControlFocus.Module.ShowQuestionDialogYesFocus(String msg, String caption)" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.cca522ddfdc0f05eb5dc299a8bd561a8e(String c0194d329765e04c6fffee186417690cc, String c16fc5eed863b3e02b79d889f869d76a6)" />
+<Entry OldName="AutoMouseControlFocus.Module.DownloadPage(String uri)" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c3f81eaa1597a5b06c76596e630091e6c(String c1347b447ed1d802b43d3136ad7e46c5d)" />
+<Entry OldName="AutoMouseControlFocus.Module.RunAdminAction(String args)" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.cf2c980aab78127585258a189bb7a0202(String c2aa5276c470002d0568558ea9fbdf153)" />
+<Entry OldName="AutoMouseControlFocus.TranslateHelper..ctor()" NewName="A.c0a7154a9c9641f2e4193c20397b63230..ctor()" />
+<Entry OldName="AutoMouseControlFocus.TranslateHelper.Translate(String str)" NewName="A.c0a7154a9c9641f2e4193c20397b63230.c0bffccc3118f5c38ad6c83098a53fe9b(String ce18be61950baa08c08ff4a9ec2e74465)" />
+<Entry OldName="AutoMouseControlFocus.NiceLine..ctor()" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07..ctor()" />
+<Entry OldName="AutoMouseControlFocus.NiceLine.get_Caption()" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.get_cdbcd42599a934b2f4a5a11a46269e338()" />
+<Entry OldName="AutoMouseControlFocus.NiceLine.set_Caption(String value)" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.set_cdbcd42599a934b2f4a5a11a46269e338(String c3d3928a9241c2cc8d43258e49694ea14)" />
+<Entry OldName="AutoMouseControlFocus.NiceLine.get_CaptionMarginSpace()" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.get_cb766fb7f01a341573cc7ebd317541a51()" />
+<Entry OldName="AutoMouseControlFocus.NiceLine.set_CaptionMarginSpace(Int32 value)" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.set_cb766fb7f01a341573cc7ebd317541a51(Int32 c3d3928a9241c2cc8d43258e49694ea14)" />
+<Entry OldName="AutoMouseControlFocus.NiceLine.get_CaptionPadding()" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.get_c141f2474a772d2195bbb5900aee8ccdc()" />
+<Entry OldName="AutoMouseControlFocus.NiceLine.set_CaptionPadding(Int32 value)" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.set_c141f2474a772d2195bbb5900aee8ccdc(Int32 c3d3928a9241c2cc8d43258e49694ea14)" />
+<Entry OldName="AutoMouseControlFocus.NiceLine.get_LineVerticalAlign()" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.get_c6b9abc93b3d6a98d0fad02e63e1dfc7d()" />
+<Entry OldName="AutoMouseControlFocus.NiceLine.set_LineVerticalAlign(LineVerticalAlign value)" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.set_c6b9abc93b3d6a98d0fad02e63e1dfc7d(c1fba512c73e89e3cd7592235bf68737e c3d3928a9241c2cc8d43258e49694ea14)" />
+<Entry OldName="AutoMouseControlFocus.NiceLine.get_CaptionOrizontalAlign()" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.get_cc95e4198fcf85a9230b44ce4b87d45b1()" />
+<Entry OldName="AutoMouseControlFocus.NiceLine.set_CaptionOrizontalAlign(CaptionOrizontalAlign value)" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.set_cc95e4198fcf85a9230b44ce4b87d45b1(cc236d2e2c45be8b92c64d6df79ac6317 c3d3928a9241c2cc8d43258e49694ea14)" />
+<Entry OldName="AutoMouseControlFocus.NiceLine.Dispose(Boolean disposing)" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.Dispose(Boolean disposing)" />
+<Entry OldName="AutoMouseControlFocus.NiceLine.InitializeComponent()" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.c8cd1efce0e3362ecdb08ac865e5255ef()" />
+<Entry OldName="AutoMouseControlFocus.NiceLine.OnPaint(PaintEventArgs e)" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.OnPaint(PaintEventArgs e)" />
+<Entry OldName="AutoMouseControlFocus.NiceLine.OnResize(EventArgs e)" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.OnResize(EventArgs e)" />
+<Entry OldName="AutoMouseControlFocus.NiceLine.OnFontChanged(EventArgs e)" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.OnFontChanged(EventArgs e)" />
+<Entry OldName="AutoMouseControlFocus.Program.Main(String[] args)" NewName="A.c15b39df1d855e8e2fb73870fc07f8f60.cab1ff9de53a77bfadffa162df24d5379(String[] c2aa5276c470002d0568558ea9fbdf153)" />
+<Entry OldName="AutoMouseControlFocus.RunAtWndowsStartupManager..ctor()" NewName="A.ce8600f29d107360ef4ea482f5647134a..ctor()" />
+<Entry OldName="AutoMouseControlFocus.RunAtWndowsStartupManager.get_RunAtWindowsStartup()" NewName="A.ce8600f29d107360ef4ea482f5647134a.get_cd1cb5dca6f917487552e26657938a9c3()" />
+<Entry OldName="AutoMouseControlFocus.RunAtWndowsStartupManager.set_RunAtWindowsStartup(Boolean value)" NewName="A.ce8600f29d107360ef4ea482f5647134a.set_cd1cb5dca6f917487552e26657938a9c3(Boolean c3d3928a9241c2cc8d43258e49694ea14)" />
+<Entry OldName="AutoMouseControlFocus.ucTextProgressBar..ctor()" NewName="A.c94455cbc55750d70580b4effcf56d1e4..ctor()" />
+<Entry OldName="AutoMouseControlFocus.ucTextProgressBar.SetText(String str)" NewName="A.c94455cbc55750d70580b4effcf56d1e4.cf43cded8e4e01a386d778ad6f09b1c1c(String ce18be61950baa08c08ff4a9ec2e74465)" />
+<Entry OldName="AutoMouseControlFocus.ucTextProgressBar.UpdatePercentage()" NewName="A.c94455cbc55750d70580b4effcf56d1e4.ce6485ebae1f65bd7f4cc5ea8820912b6()" />
+<Entry OldName="AutoMouseControlFocus.ucTextProgressBar.zOnPaint(PaintEventArgs e)" NewName="A.c94455cbc55750d70580b4effcf56d1e4.c8516b7064456a6344bdf6ae290d8ab1c(PaintEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.ucTextProgressBar.WndProc(Message&amp; m)" NewName="A.c94455cbc55750d70580b4effcf56d1e4.WndProc(Message&amp; m)" />
+<Entry OldName="AutoMouseControlFocus.ucTextProgressBar.Dispose(Boolean disposing)" NewName="A.c94455cbc55750d70580b4effcf56d1e4.Dispose(Boolean disposing)" />
+<Entry OldName="AutoMouseControlFocus.ucTextProgressBar.InitializeComponent()" NewName="A.c94455cbc55750d70580b4effcf56d1e4.c8cd1efce0e3362ecdb08ac865e5255ef()" />
+<Entry OldName="AutoMouseControlFocus.UpdateHelper..ctor()" NewName="A.c90fea82130ee16c91ac1affdc7f73c89..ctor()" />
+<Entry OldName="AutoMouseControlFocus.UpdateHelper..cctor()" NewName="A.c90fea82130ee16c91ac1affdc7f73c89..cctor()" />
+<Entry OldName="AutoMouseControlFocus.UpdateHelper.InitializeCheckVersionWeek()" NewName="A.c90fea82130ee16c91ac1affdc7f73c89.cb112a725f2c7f09de26676d9f399f678()" />
+<Entry OldName="AutoMouseControlFocus.UpdateHelper.InitializeCheckVersion()" NewName="A.c90fea82130ee16c91ac1affdc7f73c89.ccdd207285e58aaaac662a42b57f6f6fd()" />
+<Entry OldName="AutoMouseControlFocus.UpdateHelper.bwCheckVersion_ProgressChanged(Object sender, ProgressChangedEventArgs e)" NewName="A.c90fea82130ee16c91ac1affdc7f73c89.cb4d71f8548538a80037f85e469ba6ba0(Object c85aed36de41247a0fb3396b188018af8, ProgressChangedEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.UpdateHelper.bwCheckVersion_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)" NewName="A.c90fea82130ee16c91ac1affdc7f73c89.ce4a471bd23758fba9a545d1ba67c3ccf(Object c85aed36de41247a0fb3396b188018af8, RunWorkerCompletedEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.UpdateHelper.bwCheckVersion_DoWork(Object sender, DoWorkEventArgs e)" NewName="A.c90fea82130ee16c91ac1affdc7f73c89.cd66b6a9c585f91204f2a5d4bca8d1bbf(Object c85aed36de41247a0fb3396b188018af8, DoWorkEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="AutoMouseControlFocus.UpdateHelper.CheckVersionBackground()" NewName="A.c90fea82130ee16c91ac1affdc7f73c89.c2d12b63fac507762485b14b9f00b6cf7()" />
+<Entry OldName="AutoMouseControlFocus.UpdateHelper.DownloadPage(String uri)" NewName="A.c90fea82130ee16c91ac1affdc7f73c89.c3f81eaa1597a5b06c76596e630091e6c(String c1347b447ed1d802b43d3136ad7e46c5d)" />
+<Entry OldName="AutoMouseControlFocus.UpdateHelper.CheckVersion(Boolean onstart)" NewName="A.c90fea82130ee16c91ac1affdc7f73c89.c2d04dd9662672ccbe25dab5017d64658(Boolean ccae46a43609409e942e8a671aedbce85)" />
+<Entry OldName="AutoMouseControlFocus.CheckVersionResult..ctor()" NewName="A.c4d3a70f9cd26d69f7afd3a9c35c15d98..ctor()" />
+<Entry OldName="AutoMouseControlFocus.URLLinkLabel..ctor()" NewName="A.c9924b111d8fc550252d6ccd18233ff03..ctor()" />
+<Entry OldName="AutoMouseControlFocus.URLLinkLabel.OnClick(EventArgs e)" NewName="A.c9924b111d8fc550252d6ccd18233ff03.OnClick(EventArgs e)" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources..ctor()" NewName="A.c43e4afe39b031d9bb10a751d840508ba..ctor()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_ResourceManager()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_ResourceManager()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_Culture()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_Culture()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.c43e4afe39b031d9bb10a751d840508ba.set_Culture(CultureInfo value)" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get__4dots_logo_official()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get__4dots_logo_official()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_about()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_about()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_add()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_add()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_add1()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_add1()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_arrow_down_green()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_arrow_down_green()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_arrow_left_blue()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_arrow_left_blue()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_arrow_right_blue()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_arrow_right_blue()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_arrow_up_green()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_arrow_up_green()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_brush2()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_brush2()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_brush4()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_brush4()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_bullet_ball_glass_blue()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_bullet_ball_glass_blue()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_bullet_ball_glass_blue_16()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_bullet_ball_glass_blue_16()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_bullet_ball_glass_green()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_bullet_ball_glass_green()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_bullet_ball_glass_red()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_bullet_ball_glass_red()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_bullet_ball_glass_yellow()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_bullet_ball_glass_yellow()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_cart_icon_b_24()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_cart_icon_b_24()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_check()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_check()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_copy()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_copy()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_cut()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_cut()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_delete()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_delete()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_delete1()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_delete1()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_disk_blue()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_disk_blue()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_document_preferences()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_document_preferences()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_earth()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_earth()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_edit()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_edit()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_exit()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_exit()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_exit1()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_exit1()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_facebook_24()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_facebook_24()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_facebook_32()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_facebook_32()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_flash()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_flash()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_flash1()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_flash1()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_folder()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_folder()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_folder_add()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_folder_add()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_folder1()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_folder1()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_googleplus_24()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_googleplus_24()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_help2()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_help2()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_import1()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_import1()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_information()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_information()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_key1()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_key1()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_linkedin_24()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_linkedin_24()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_mail()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_mail()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_media_pause()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_media_pause()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_media_stop()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_media_stop()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_navigate_beginning()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_navigate_beginning()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_navigate_end()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_navigate_end()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_paypal_donate()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_paypal_donate()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_preferences()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_preferences()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_select_and_calculate()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_select_and_calculate()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_twitter_24()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_twitter_24()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_twitter_32()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_twitter_32()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_warning()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_warning()" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources.get_youtube_32()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_youtube_32()" />
+<Entry OldName="AutoMouseControlFocus.CustomForm" NewName="A.cf45d290d050e09d3f2b993b9f15b3472" />
+<Entry OldName="AutoMouseControlFocus.ExceptionHandlersHelper" NewName="A.c5adea92bc8528127188148270b7f7b8c" />
+<Entry OldName="AutoMouseControlFocus.frmAbout" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a" />
+<Entry OldName="AutoMouseControlFocus.frmDownloadUpdate" NewName="A.cf0a052401509b5fe1a216c3facb67c5f" />
+<Entry OldName="AutoMouseControlFocus.frmError" NewName="A.cae9574d1518bacf095666b9dd2e78ddb" />
+<Entry OldName="AutoMouseControlFocus.frmMain" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa" />
+<Entry OldName="AutoMouseControlFocus.frmMessageCheckbox" NewName="A.c4317fa90830b5c38ba663c3c1ca1d5a1" />
+<Entry OldName="AutoMouseControlFocus.Module" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80" />
+<Entry OldName="AutoMouseControlFocus.TranslateHelper" NewName="A.c0a7154a9c9641f2e4193c20397b63230" />
+<Entry OldName="AutoMouseControlFocus.NiceLine" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07" />
+<Entry OldName="AutoMouseControlFocus.LineVerticalAlign" NewName="A.c1fba512c73e89e3cd7592235bf68737e" />
+<Entry OldName="AutoMouseControlFocus.CaptionOrizontalAlign" NewName="A.cc236d2e2c45be8b92c64d6df79ac6317" />
+<Entry OldName="AutoMouseControlFocus.Program" NewName="A.c15b39df1d855e8e2fb73870fc07f8f60" />
+<Entry OldName="AutoMouseControlFocus.RunAtWndowsStartupManager" NewName="A.ce8600f29d107360ef4ea482f5647134a" />
+<Entry OldName="AutoMouseControlFocus.ucTextProgressBar" NewName="A.c94455cbc55750d70580b4effcf56d1e4" />
+<Entry OldName="AutoMouseControlFocus.UpdateHelper" NewName="A.c90fea82130ee16c91ac1affdc7f73c89" />
+<Entry OldName="AutoMouseControlFocus.CheckVersionResult" NewName="A.c4d3a70f9cd26d69f7afd3a9c35c15d98" />
+<Entry OldName="AutoMouseControlFocus.URLLinkLabel" NewName="A.c9924b111d8fc550252d6ccd18233ff03" />
+<Entry OldName="AutoMouseControlFocus.Properties.Resources" NewName="A.c43e4afe39b031d9bb10a751d840508ba" />
+<Assembly Name="AutoMouseControlFocus"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="AutoMouseControlFocus.CustomForm" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name="OnResize" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663300" Name="OnPaintBackground" Variables="this;e;x;y;lgBrush;V_3;" ParamCnt="2" />
+<Method Token="100663301" Name="OnLoad" Variables="this;e;V_0;co;V_2;V_3;V_4;V_5;ex;" ParamCnt="2" />
+<Method Token="100663302" Name="CustomForm_Activated" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663303" Name="OnActivated" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663304" Name="ResizeControls" Variables="this;V_0;k;V_2;k;left;right;top;bottom;height;V_9;j;V_11;V_12;V_13;chk;V_15;chk;V_17;chk;V_19;V_20;" ParamCnt="1" />
+<Method Token="100663305" Name="ResizeChildControls" Variables="this;co;k;V_1;k;left;right;top;bottom;height;V_8;j;V_10;V_11;V_12;chk;V_14;chk;V_16;chk;V_18;V_19;" ParamCnt="2" />
+<Method Token="100663306" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663307" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108865" Name="LoadComplete" />
+<Field Token="67108866" Name="BackGroundImg" />
+<Field Token="67108867" Name="GradientBackground" />
+<Field Token="67108868" Name="tooltip" />
+<Field Token="67108869" Name="components" />
+<Type Token="33554436" Name="AutoMouseControlFocus.ExceptionHandlersHelper" />
+<Method Token="100663309" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663310" Name="AddUnhandledExceptionHandlers" Variables="" ParamCnt="0" />
+<Method Token="100663311" Name="myExceptionHandler" Variables="sender;e;ex;" ParamCnt="2" />
+<Method Token="100663312" Name="myThreadExceptionHandler" Variables="sender;e;" ParamCnt="2" />
+<Type Token="33554438" Name="AutoMouseControlFocus.frmAbout" />
+<Method Token="100663319" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663320" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663321" Name="frmAbout_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663322" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663323" Name="btnDonate_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663324" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663325" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108871" Name="lblf" />
+<Field Token="67108872" Name="bufluf" />
+<Field Token="67108873" Name="lstbufluf" />
+<Field Token="67108874" Name="LDT" />
+<Field Token="67108875" Name="components" />
+<Field Token="67108876" Name="lblAbout" />
+<Field Token="67108877" Name="btnClose" />
+<Field Token="67108878" Name="pictureBox1" />
+<Field Token="67108879" Name="linkLabel1" />
+<Field Token="67108880" Name="label1" />
+<Field Token="67108881" Name="label2" />
+<Field Token="67108882" Name="linkLabel2" />
+<Field Token="67108883" Name="niceLine1" />
+<Field Token="67108884" Name="niceLine3" />
+<Field Token="67108885" Name="label3" />
+<Field Token="67108886" Name="ullProductWebpage" />
+<Field Token="67108887" Name="lblRegistered" />
+<Field Token="67108888" Name="btnDonate" />
+<Field Token="67108889" Name="niceLine2" />
+<Field Token="67108890" Name="niceLine4" />
+<Field Token="67108891" Name="label4" />
+<Field Token="67108892" Name="urlLinkLabel1" />
+<Type Token="33554439" Name="AutoMouseControlFocus.frmDownloadUpdate" />
+<Method Token="100663326" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663327" Name="get_DownloadFile" Variables="this;V_0;spos;file;tempdir;V_4;" ParamCnt="1" />
+<Method Token="100663328" Name="get_DownloadURL" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663329" Name="frmDownloadUpdate_Load" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663330" Name="client_DownloadFileCompleted" Variables="this;sender;e;V_0;ex;" ParamCnt="3" />
+<Method Token="100663331" Name="client_DownloadProgressChanged" Variables="this;sender;e;ukb;umb;V_2;" ParamCnt="3" />
+<Method Token="100663332" Name="GetEXEDownloadURL" Variables="this;durl;V_1;spos;program;V_4;V_5;" ParamCnt="1" />
+<Method Token="100663333" Name="btnCancelDownload_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663334" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663335" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108893" Name="_DownloadFile" />
+<Field Token="67108894" Name="client" />
+<Field Token="67108895" Name="Cancelled" />
+<Field Token="67108896" Name="components" />
+<Field Token="67108897" Name="pgBar" />
+<Field Token="67108898" Name="btnCancelDownload" />
+<Field Token="67108899" Name="bwDownload" />
+<Field Token="67108900" Name="label1" />
+<Field Token="67108901" Name="lblTotalSize" />
+<Type Token="33554440" Name="AutoMouseControlFocus.frmError" />
+<Method Token="100663336" Name=".ctor" Variables="this;lbl;txt;" ParamCnt="3" />
+<Method Token="100663337" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663338" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663339" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108902" Name="components" />
+<Field Token="67108903" Name="txtError" />
+<Field Token="67108904" Name="pictureBox1" />
+<Field Token="67108905" Name="lblError" />
+<Field Token="67108906" Name="btnClose" />
+<Type Token="33554441" Name="AutoMouseControlFocus.frmMain" />
+<Method Token="100663340" Name=".ctor" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663341" Name="frmMain_Load" Variables="this;sender;e;V_0;V_1;fm;V_3;V_4;V_5;" ParamCnt="3" />
+<Method Token="100663342" Name="keyboardHook_KeyPress" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663343" Name="keyboardHook_KeyUp" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663344" Name="keyboardHook_KeyDown" Variables="this;sender;e;V_0;cancel;V_2;V_3;V_4;V_5;V_6;V_7;" ParamCnt="3" />
+<Method Token="100663345" Name="Calculate" Variables="this;str;expression;result;V_3;ex;V_5;" ParamCnt="1" />
+<Method Token="100663346" Name="txtHotKey_KeyPress" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663347" Name="helpGuideToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663348" Name="pleaseDonateToolStripMenuItem1_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663349" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663350" Name="checkForNewVersionEachWeekToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663351" Name="tiHelpFeedback_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663352" Name="checkForNewVersionToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663353" Name="followUsOnTwitterToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663354" Name="visit4dotsSoftwareWebsiteToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663355" Name="youtubeChannelToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663356" Name="aboutToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663357" Name="exitToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663358" Name="minimizeToWindowsSystemTrayToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663359" Name="notMain_MouseDoubleClick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663360" Name="btnClose_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663361" Name="txtHotKey_Enter" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663362" Name="frmMain_Resize" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663363" Name="txtHotKey_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663364" Name="txtHotKey_Validating" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663365" Name="txtHotKey_KeyDown" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663366" Name="exitToolStripMenuItem1_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663367" Name="openToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663368" Name="runAtWindowsStartupToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663369" Name="SetTitle" Variables="this;str;V_1;V_2;" ParamCnt="1" />
+<Method Token="100663370" Name="copyToClipboardResultToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663371" Name="pasteResultToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663372" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663373" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108907" Name="keyboardHook" />
+<Field Token="67108908" Name="HotKeyChar" />
+<Field Token="67108909" Name="ControlCIsPressed" />
+<Field Token="67108910" Name="sc" />
+<Field Token="67108911" Name="FreeForPersonalUse" />
+<Field Token="67108912" Name="FreeForPersonalAndCommercialUse" />
+<Field Token="67108913" Name="components" />
+<Field Token="67108914" Name="notMain" />
+<Field Token="67108915" Name="label1" />
+<Field Token="67108916" Name="label2" />
+<Field Token="67108917" Name="txtHotKey" />
+<Field Token="67108918" Name="label3" />
+<Field Token="67108919" Name="msMain" />
+<Field Token="67108920" Name="fileToolStripMenuItem" />
+<Field Token="67108921" Name="exitToolStripMenuItem" />
+<Field Token="67108922" Name="helpToolStripMenuItem" />
+<Field Token="67108923" Name="helpGuideToolStripMenuItem" />
+<Field Token="67108924" Name="pleaseDonateToolStripMenuItem1" />
+<Field Token="67108925" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem" />
+<Field Token="67108926" Name="checkForNewVersionEachWeekToolStripMenuItem" />
+<Field Token="67108927" Name="tiHelpFeedback" />
+<Field Token="67108928" Name="checkForNewVersionToolStripMenuItem" />
+<Field Token="67108929" Name="toolStripMenuItem1" />
+<Field Token="67108930" Name="followUsOnTwitterToolStripMenuItem" />
+<Field Token="67108931" Name="visit4dotsSoftwareWebsiteToolStripMenuItem" />
+<Field Token="67108932" Name="youtubeChannelToolStripMenuItem" />
+<Field Token="67108933" Name="aboutToolStripMenuItem" />
+<Field Token="67108934" Name="btnClose" />
+<Field Token="67108935" Name="downloadSoftwareToolStripMenuItem" />
+<Field Token="67108936" Name="label4" />
+<Field Token="67108937" Name="txtTestBox" />
+<Field Token="67108938" Name="optionsToolStripMenuItem" />
+<Field Token="67108939" Name="runAtWindowsStartupToolStripMenuItem" />
+<Field Token="67108940" Name="cmsMain" />
+<Field Token="67108941" Name="openToolStripMenuItem" />
+<Field Token="67108942" Name="exitToolStripMenuItem1" />
+<Field Token="67108943" Name="toolStripMenuItem3" />
+<Field Token="67108944" Name="copyToClipboardResultToolStripMenuItem" />
+<Field Token="67108945" Name="pasteResultToolStripMenuItem" />
+<Field Token="67108946" Name="minimizeToWindowsSystemTrayToolStripMenuItem" />
+<Field Token="67108947" Name="chkControl" />
+<Field Token="67108948" Name="chkAlt" />
+<Field Token="67108949" Name="chkShift" />
+<Type Token="33554442" Name="AutoMouseControlFocus.frmMessageCheckbox" />
+<Method Token="100663374" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663375" Name=".ctor" Variables="this;title;lblDesc;" ParamCnt="3" />
+<Method Token="100663376" Name=".ctor" Variables="this;title;lblDesc;chkDesc;V_0;" ParamCnt="4" />
+<Method Token="100663377" Name="btnOK_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663378" Name="ShowStartupGuideMessage" Variables="" ParamCnt="0" />
+<Method Token="100663379" Name="ShowTimeOutValueRegistry" Variables="" ParamCnt="0" />
+<Method Token="100663380" Name="frmMessageCheckbox_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663381" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663382" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108950" Name="components" />
+<Field Token="67108951" Name="chkOption" />
+<Field Token="67108952" Name="lblOption" />
+<Field Token="67108953" Name="btnOK" />
+<Type Token="33554443" Name="AutoMouseControlFocus.Module" />
+<Method Token="100663383" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663384" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663385" Name="SendMessage" Variables="hWnd;wMsg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663386" Name="LockWindowUpdate" Variables="hWndLock;" ParamCnt="1" />
+<Method Token="100663387" Name="WaitNMSeconds" Variables="mseconds;_desired;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663388" Name="ShowMessage" Variables="msg;" ParamCnt="1" />
+<Method Token="100663389" Name="ShowQuestionDialog" Variables="msg;caption;V_0;" ParamCnt="2" />
+<Method Token="100663390" Name="ShowError" Variables="ex;" ParamCnt="1" />
+<Method Token="100663391" Name="ShowError" Variables="msg;f;" ParamCnt="1" />
+<Method Token="100663392" Name="ShowError" Variables="msg;ex;" ParamCnt="2" />
+<Method Token="100663393" Name="ShowError" Variables="msg;exstr;" ParamCnt="2" />
+<Method Token="100663394" Name="ShowQuestionDialogYesFocus" Variables="msg;caption;V_0;" ParamCnt="2" />
+<Method Token="100663395" Name="DownloadPage" Variables="uri;client;data;reader;s;V_4;ex;" ParamCnt="1" />
+<Method Token="100663396" Name="RunAdminAction" Variables="args;pr;V_1;V_2;V_3;" ParamCnt="1" />
+<Field Token="67108954" Name="BlueForeColor" />
+<Field Token="67108955" Name="ApplicationName" />
+<Field Token="67108956" Name="Version" />
+<Field Token="67108957" Name="Ver" />
+<Field Token="67108958" Name="ShortApplicationTitle" />
+<Field Token="67108959" Name="ApplicationTitle" />
+<Field Token="67108960" Name="DownloadURL" />
+<Field Token="67108961" Name="HelpURL" />
+<Field Token="67108962" Name="ProductWebpageURL" />
+<Field Token="67108963" Name="BuyURL" />
+<Field Token="67108964" Name="VersionURL" />
+<Field Token="67108965" Name="NumberOfFilesProcessed" />
+<Field Token="67108966" Name="TipText" />
+<Field Token="67108967" Name="SelectedLanguage" />
+<Field Token="67108968" Name="args" />
+<Type Token="33554444" Name="AutoMouseControlFocus.TranslateHelper" />
+<Method Token="100663397" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663398" Name="Translate" Variables="str;V_0;" ParamCnt="1" />
+<Type Token="33554445" Name="AutoMouseControlFocus.NiceLine" />
+<Method Token="100663399" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663400" Name="get_Caption" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663401" Name="set_Caption" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663402" Name="get_CaptionMarginSpace" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663403" Name="set_CaptionMarginSpace" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663404" Name="get_CaptionPadding" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663405" Name="set_CaptionPadding" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663406" Name="get_LineVerticalAlign" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663407" Name="set_LineVerticalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663408" Name="get_CaptionOrizontalAlign" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663409" Name="set_CaptionOrizontalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663410" Name="Dispose" Variables="this;disposing;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663411" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Method Token="100663412" Name="OnPaint" Variables="this;e;ym;captionSizeF;captionLength;beforeCaption;afterCaption;V_5;V_6;V_7;V_8;V_9;V_10;V_11;" ParamCnt="2" />
+<Method Token="100663413" Name="OnResize" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663414" Name="OnFontChanged" Variables="this;e;" ParamCnt="2" />
+<Field Token="67108969" Name="components" />
+<Field Token="67108970" Name="_Caption" />
+<Field Token="67108971" Name="_CaptionMarginSpace" />
+<Field Token="67108972" Name="_CaptionPadding" />
+<Field Token="67108973" Name="_LineVerticalAlign" />
+<Field Token="67108974" Name="_CaptionOrizontalAlign" />
+<Type Token="33554446" Name="AutoMouseControlFocus.LineVerticalAlign" />
+<Field Token="67108975" Name="value__" />
+<Field Token="67108976" Name="Top" />
+<Field Token="67108977" Name="Middle" />
+<Field Token="67108978" Name="Bottom" />
+<Type Token="33554447" Name="AutoMouseControlFocus.CaptionOrizontalAlign" />
+<Field Token="67108979" Name="value__" />
+<Field Token="67108980" Name="Left" />
+<Field Token="67108981" Name="Center" />
+<Field Token="67108982" Name="Right" />
+<Type Token="33554449" Name="AutoMouseControlFocus.Program" />
+<Method Token="100663418" Name="Main" Variables="args;V_0;" ParamCnt="1" />
+<Type Token="33554450" Name="AutoMouseControlFocus.RunAtWndowsStartupManager" />
+<Method Token="100663419" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663420" Name="get_RunAtWindowsStartup" Variables="key;V_1;" ParamCnt="0" />
+<Method Token="100663421" Name="set_RunAtWindowsStartup" Variables="value;enable;key;V_2;V_3;V_4;V_5;ex;" ParamCnt="1" />
+<Type Token="33554451" Name="AutoMouseControlFocus.ucTextProgressBar" />
+<Method Token="100663422" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663423" Name="SetText" Variables="this;str;V_0;" ParamCnt="2" />
+<Method Token="100663424" Name="UpdatePercentage" Variables="this;curval;maxval;perc;" ParamCnt="1" />
+<Method Token="100663425" Name="zOnPaint" Variables="this;e;curval;maxval;perc;rangerect;font;brBack;V_6;fillBrush;sPoint;V_9;p;" ParamCnt="2" />
+<Method Token="100663426" Name="WndProc" Variables="this;m;V_0;V_1;graphics;font;textSize;" ParamCnt="2" />
+<Method Token="100663427" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663428" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108984" Name="lblText" />
+<Field Token="67108985" Name="WmPaint" />
+<Field Token="67108986" Name="components" />
+<Type Token="33554452" Name="AutoMouseControlFocus.UpdateHelper" />
+<Method Token="100663429" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663430" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663431" Name="InitializeCheckVersionWeek" Variables="lastcheck;V_1;month;day;year;dtlast;V_6;V_7;V_8;" ParamCnt="0" />
+<Method Token="100663432" Name="InitializeCheckVersion" Variables="" ParamCnt="0" />
+<Method Token="100663433" Name="bwCheckVersion_ProgressChanged" Variables="sender;e;res;V_1;V_2;V_3;fdu;resq;V_6;fdu;" ParamCnt="2" />
+<Method Token="100663434" Name="bwCheckVersion_RunWorkerCompleted" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663435" Name="bwCheckVersion_DoWork" Variables="sender;e;res;" ParamCnt="2" />
+<Method Token="100663436" Name="CheckVersionBackground" Variables="onstart;res;str;V_3;V_4;V_5;epos;price;V_8;sr;line;found;epos;title;version;app;V_16;verdotpos;vermajor;verminor;curverepos;V_21;curver;dotpos;curmajor;curminor;V_26;V_27;V_28;V_29;V_30;V_31;V_32;V_33;V_34;" ParamCnt="0" />
+<Method Token="100663437" Name="DownloadPage" Variables="uri;client;data;reader;s;V_4;ex;" ParamCnt="1" />
+<Method Token="100663438" Name="CheckVersion" Variables="onstart;str;V_1;sr;line;found;epos;title;version;epos2;app;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;" ParamCnt="1" />
+<Field Token="67108987" Name="bwCheckVersion" />
+<Type Token="33554454" Name="AutoMouseControlFocus.CheckVersionResult" />
+<Method Token="100663446" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67108994" Name="NewVersionReleased" />
+<Field Token="67108995" Name="ItIsNecessaryToUpdate" />
+<Field Token="67108996" Name="OutputMessage" />
+<Type Token="33554455" Name="AutoMouseControlFocus.URLLinkLabel" />
+<Method Token="100663447" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663448" Name="OnClick" Variables="this;e;" ParamCnt="2" />
+<Type Token="33554456" Name="AutoMouseControlFocus.Properties.Resources" />
+<Method Token="100663449" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663450" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663451" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663452" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663453" Name="get__4dots_logo_official" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663454" Name="get_about" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663455" Name="get_add" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663456" Name="get_add1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663457" Name="get_arrow_down_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663458" Name="get_arrow_left_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663459" Name="get_arrow_right_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663460" Name="get_arrow_up_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663461" Name="get_brush2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663462" Name="get_brush4" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663463" Name="get_bullet_ball_glass_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663464" Name="get_bullet_ball_glass_blue_16" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663465" Name="get_bullet_ball_glass_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663466" Name="get_bullet_ball_glass_red" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663467" Name="get_bullet_ball_glass_yellow" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663468" Name="get_cart_icon_b_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663469" Name="get_check" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663470" Name="get_copy" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663471" Name="get_cut" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663472" Name="get_delete" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663473" Name="get_delete1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663474" Name="get_disk_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663475" Name="get_document_preferences" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663476" Name="get_earth" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663477" Name="get_edit" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663478" Name="get_exit" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663479" Name="get_exit1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663480" Name="get_facebook_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663481" Name="get_facebook_32" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663482" Name="get_flash" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663483" Name="get_flash1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663484" Name="get_folder" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663485" Name="get_folder_add" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663486" Name="get_folder1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663487" Name="get_googleplus_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663488" Name="get_help2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663489" Name="get_import1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663490" Name="get_information" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663491" Name="get_key1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663492" Name="get_linkedin_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663493" Name="get_mail" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663494" Name="get_media_pause" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663495" Name="get_media_stop" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663496" Name="get_navigate_beginning" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663497" Name="get_navigate_end" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663498" Name="get_paypal_donate" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663499" Name="get_preferences" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663500" Name="get_select_and_calculate" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663501" Name="get_twitter_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663502" Name="get_twitter_32" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663503" Name="get_warning" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663504" Name="get_youtube_32" Variables="obj;V_1;" ParamCnt="0" />
+<Field Token="67108997" Name="resourceMan" />
+<Field Token="67108998" Name="resourceCulture" />
+<Type Token="33554457" Name="AutoMouseControlFocus.Properties.Settings" />
+<Method Token="100663505" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663506" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663507" Name="get_Default" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663508" Name="get_ShortcutKeyString" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663509" Name="set_ShortcutKeyString" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663510" Name="get_Price" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663511" Name="set_Price" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663512" Name="get_LastCheckVersion" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663513" Name="set_LastCheckVersion" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663514" Name="get_CheckWeek" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663515" Name="set_CheckWeek" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663516" Name="get_MinimizeToTray" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663517" Name="set_MinimizeToTray" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663518" Name="get_Initialized" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663519" Name="set_Initialized" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663520" Name="get_ShortcutKey" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663521" Name="set_ShortcutKey" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663522" Name="get_PasteResult" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663523" Name="set_PasteResult" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663524" Name="get_KeyControl" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663525" Name="set_KeyControl" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663526" Name="get_KeyAlt" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663527" Name="set_KeyAlt" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663528" Name="get_KeyShift" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663529" Name="set_KeyShift" Variables="this;value;" ParamCnt="2" />
+<Field Token="67108999" Name="defaultInstance" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663308" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly></Mappings>
