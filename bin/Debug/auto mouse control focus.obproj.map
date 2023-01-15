@@ -63,6 +63,7 @@
 <Entry OldName="AutoMouseControlFocus.frmMain.lastHwnd" NewName="A.c66a555cef5762927d211a088c3e03cb3.c562396861b6f6cd9f637906301cdc9bd" />
 <Entry OldName="AutoMouseControlFocus.frmMain.focusedControlHandle" NewName="A.c66a555cef5762927d211a088c3e03cb3.ce04d930f2940e34b33a0884af0704c8d" />
 <Entry OldName="AutoMouseControlFocus.frmMain.Wait" NewName="A.c66a555cef5762927d211a088c3e03cb3.c39c0a4225078dd048028230d997d7331" />
+<Entry OldName="AutoMouseControlFocus.frmMain.sw" NewName="A.c66a555cef5762927d211a088c3e03cb3.c6c08c3138465d2d2fbf69762e90b8a8e" />
 <Entry OldName="AutoMouseControlFocus.frmMain.InAutoSetFocus" NewName="A.c66a555cef5762927d211a088c3e03cb3.c554c0e06ccb8c2cf004a30a897f9a938" />
 <Entry OldName="AutoMouseControlFocus.frmMain.Target1" NewName="A.c66a555cef5762927d211a088c3e03cb3.c3d1dd9c850df970270619c610efe3b0a" />
 <Entry OldName="AutoMouseControlFocus.frmMain.InChangeLanguage" NewName="A.c66a555cef5762927d211a088c3e03cb3.c4b808e284fdf47bb7830c3aad3932c61" />
@@ -722,7 +723,7 @@
 <Method Token="100663383" Name="GetWindowRect" Variables="hWnd;lpRect;" ParamCnt="2" />
 <Method Token="100663384" Name="SetWindowPos" Variables="hWnd;hWndInsertAfter;x;y;cx;cy;uFlags;" ParamCnt="7" />
 <Method Token="100663385" Name="GetAncestor" Variables="hwnd;flags;" ParamCnt="2" />
-<Method Token="100663386" Name="timFocus_Tick" Variables="this;sender;e;maxWait;activeWindowThread;thisWindowThread;V_3;V_4;V_5;V_6;V_7;V_8;V_9;hWnd;hw;ancestor;className;nret;V_15;cn;contains;containsC;k;V_20;V_21;k;V_23;V_24;V_25;V_26;" ParamCnt="3" />
+<Method Token="100663386" Name="timFocus_Tick" Variables="this;sender;e;maxWait;activeWindowThread;thisWindowThread;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;hWnd;hw;ancestor;className;nret;V_16;cn;contains;containsC;k;V_21;V_22;k;V_24;V_25;V_26;V_27;" ParamCnt="3" />
 <Method Token="100663387" Name="GetWindowThreadProcessId" Variables="hWnd;ProcessId;" ParamCnt="2" />
 <Method Token="100663388" Name="GetCurrentThread" Variables="" ParamCnt="0" />
 <Method Token="100663389" Name="AttachThreadInput" Variables="idAttach;idAttachTo;fAttach;" ParamCnt="3" />
@@ -749,7 +750,7 @@
 <Method Token="100663410" Name="tiLang_Click" Variables="this;sender;e;ti;langcode;k;til;V_4;V_5;k;til;V_8;V_9;" ParamCnt="3" />
 <Method Token="100663411" Name="ChangeLanguage" Variables="this;language_code;maximized;V_1;" ParamCnt="2" />
 <Method Token="100663412" Name="AdjustSizeLocation" Variables="this;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="1" />
-<Method Token="100663413" Name="SaveSizeLocation" Variables="this;" ParamCnt="1" />
+<Method Token="100663413" Name="SaveSizeLocation" Variables="this;V_0;V_1;" ParamCnt="1" />
 <Method Token="100663414" Name="frmMain_Shown" Variables="this;sender;e;" ParamCnt="3" />
 <Method Token="100663415" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
 <Method Token="100663416" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
@@ -766,58 +767,59 @@
 <Field Token="67108928" Name="lastHwnd" />
 <Field Token="67108929" Name="focusedControlHandle" />
 <Field Token="67108930" Name="Wait" />
-<Field Token="67108931" Name="InAutoSetFocus" />
-<Field Token="67108932" Name="Target1" />
-<Field Token="67108933" Name="InChangeLanguage" />
-<Field Token="67108934" Name="components" />
-<Field Token="67108935" Name="notMain" />
-<Field Token="67108936" Name="label3" />
-<Field Token="67108937" Name="msMain" />
-<Field Token="67108938" Name="fileToolStripMenuItem" />
-<Field Token="67108939" Name="exitToolStripMenuItem" />
-<Field Token="67108940" Name="helpToolStripMenuItem" />
-<Field Token="67108941" Name="helpGuideToolStripMenuItem" />
-<Field Token="67108942" Name="pleaseDonateToolStripMenuItem1" />
-<Field Token="67108943" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem" />
-<Field Token="67108944" Name="checkForNewVersionEachWeekToolStripMenuItem" />
-<Field Token="67108945" Name="tiHelpFeedback" />
-<Field Token="67108946" Name="checkForNewVersionToolStripMenuItem" />
-<Field Token="67108947" Name="toolStripMenuItem1" />
-<Field Token="67108948" Name="followUsOnTwitterToolStripMenuItem" />
-<Field Token="67108949" Name="visit4dotsSoftwareWebsiteToolStripMenuItem" />
-<Field Token="67108950" Name="youtubeChannelToolStripMenuItem" />
-<Field Token="67108951" Name="aboutToolStripMenuItem" />
-<Field Token="67108952" Name="btnClose" />
-<Field Token="67108953" Name="downloadSoftwareToolStripMenuItem" />
-<Field Token="67108954" Name="optionsToolStripMenuItem" />
-<Field Token="67108955" Name="runAtWindowsStartupToolStripMenuItem" />
-<Field Token="67108956" Name="cmsMain" />
-<Field Token="67108957" Name="openToolStripMenuItem" />
-<Field Token="67108958" Name="exitToolStripMenuItem1" />
-<Field Token="67108959" Name="minimizeToWindowsSystemTrayToolStripMenuItem" />
-<Field Token="67108960" Name="timFocus" />
-<Field Token="67108961" Name="label1" />
-<Field Token="67108962" Name="lstFocusClassNames" />
-<Field Token="67108963" Name="btnExit" />
-<Field Token="67108964" Name="btnRemove" />
-<Field Token="67108965" Name="btnReset" />
-<Field Token="67108966" Name="txtClassName" />
-<Field Token="67108967" Name="btnAdd" />
-<Field Token="67108968" Name="groupBox1" />
-<Field Token="67108969" Name="groupBox2" />
-<Field Token="67108970" Name="btnAddClick" />
-<Field Token="67108971" Name="txtClickClassName" />
-<Field Token="67108972" Name="btnResetClick" />
-<Field Token="67108973" Name="btnRemoveClick" />
-<Field Token="67108974" Name="lstClickClassNames" />
-<Field Token="67108975" Name="label2" />
-<Field Token="67108976" Name="panel1" />
-<Field Token="67108977" Name="label4" />
-<Field Token="67108978" Name="label5" />
-<Field Token="67108979" Name="panel2" />
-<Field Token="67108980" Name="languageToolStripMenuItem" />
-<Field Token="67108981" Name="languages1ToolStripMenuItem" />
-<Field Token="67108982" Name="languages2ToolStripMenuItem" />
+<Field Token="67108931" Name="sw" />
+<Field Token="67108932" Name="InAutoSetFocus" />
+<Field Token="67108933" Name="Target1" />
+<Field Token="67108934" Name="InChangeLanguage" />
+<Field Token="67108935" Name="components" />
+<Field Token="67108936" Name="notMain" />
+<Field Token="67108937" Name="label3" />
+<Field Token="67108938" Name="msMain" />
+<Field Token="67108939" Name="fileToolStripMenuItem" />
+<Field Token="67108940" Name="exitToolStripMenuItem" />
+<Field Token="67108941" Name="helpToolStripMenuItem" />
+<Field Token="67108942" Name="helpGuideToolStripMenuItem" />
+<Field Token="67108943" Name="pleaseDonateToolStripMenuItem1" />
+<Field Token="67108944" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem" />
+<Field Token="67108945" Name="checkForNewVersionEachWeekToolStripMenuItem" />
+<Field Token="67108946" Name="tiHelpFeedback" />
+<Field Token="67108947" Name="checkForNewVersionToolStripMenuItem" />
+<Field Token="67108948" Name="toolStripMenuItem1" />
+<Field Token="67108949" Name="followUsOnTwitterToolStripMenuItem" />
+<Field Token="67108950" Name="visit4dotsSoftwareWebsiteToolStripMenuItem" />
+<Field Token="67108951" Name="youtubeChannelToolStripMenuItem" />
+<Field Token="67108952" Name="aboutToolStripMenuItem" />
+<Field Token="67108953" Name="btnClose" />
+<Field Token="67108954" Name="downloadSoftwareToolStripMenuItem" />
+<Field Token="67108955" Name="optionsToolStripMenuItem" />
+<Field Token="67108956" Name="runAtWindowsStartupToolStripMenuItem" />
+<Field Token="67108957" Name="cmsMain" />
+<Field Token="67108958" Name="openToolStripMenuItem" />
+<Field Token="67108959" Name="exitToolStripMenuItem1" />
+<Field Token="67108960" Name="minimizeToWindowsSystemTrayToolStripMenuItem" />
+<Field Token="67108961" Name="timFocus" />
+<Field Token="67108962" Name="label1" />
+<Field Token="67108963" Name="lstFocusClassNames" />
+<Field Token="67108964" Name="btnExit" />
+<Field Token="67108965" Name="btnRemove" />
+<Field Token="67108966" Name="btnReset" />
+<Field Token="67108967" Name="txtClassName" />
+<Field Token="67108968" Name="btnAdd" />
+<Field Token="67108969" Name="groupBox1" />
+<Field Token="67108970" Name="groupBox2" />
+<Field Token="67108971" Name="btnAddClick" />
+<Field Token="67108972" Name="txtClickClassName" />
+<Field Token="67108973" Name="btnResetClick" />
+<Field Token="67108974" Name="btnRemoveClick" />
+<Field Token="67108975" Name="lstClickClassNames" />
+<Field Token="67108976" Name="label2" />
+<Field Token="67108977" Name="panel1" />
+<Field Token="67108978" Name="label4" />
+<Field Token="67108979" Name="label5" />
+<Field Token="67108980" Name="panel2" />
+<Field Token="67108981" Name="languageToolStripMenuItem" />
+<Field Token="67108982" Name="languages1ToolStripMenuItem" />
+<Field Token="67108983" Name="languages2ToolStripMenuItem" />
 <Type Token="33554444" Name="AutoMouseControlFocus.frmMessageCheckbox" />
 <Method Token="100663417" Name=".ctor" Variables="this;" ParamCnt="1" />
 <Method Token="100663418" Name=".ctor" Variables="this;title;lblDesc;" ParamCnt="3" />
@@ -828,16 +830,16 @@
 <Method Token="100663423" Name="frmMessageCheckbox_Load" Variables="this;sender;e;" ParamCnt="3" />
 <Method Token="100663424" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
 <Method Token="100663425" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
-<Field Token="67108983" Name="components" />
-<Field Token="67108984" Name="chkOption" />
-<Field Token="67108985" Name="lblOption" />
-<Field Token="67108986" Name="btnOK" />
+<Field Token="67108984" Name="components" />
+<Field Token="67108985" Name="chkOption" />
+<Field Token="67108986" Name="lblOption" />
+<Field Token="67108987" Name="btnOK" />
 <Type Token="33554445" Name="AutoMouseControlFocus.ImageComboBox" />
 <Method Token="100663426" Name=".ctor" Variables="this;" ParamCnt="1" />
 <Method Token="100663427" Name="get_ImageList" Variables="this;V_0;" ParamCnt="1" />
 <Method Token="100663428" Name="set_ImageList" Variables="this;value;" ParamCnt="2" />
 <Method Token="100663429" Name="OnDrawItem" Variables="this;ea;item;imageSize;bounds;V_3;V_4;" ParamCnt="2" />
-<Field Token="67108987" Name="imageList" />
+<Field Token="67108988" Name="imageList" />
 <Type Token="33554446" Name="AutoMouseControlFocus.ComboBoxExItem" />
 <Method Token="100663430" Name=".ctor" Variables="this;" ParamCnt="1" />
 <Method Token="100663431" Name=".ctor" Variables="this;text;" ParamCnt="2" />
@@ -847,8 +849,8 @@
 <Method Token="100663435" Name="get_ImageIndex" Variables="this;V_0;" ParamCnt="1" />
 <Method Token="100663436" Name="set_ImageIndex" Variables="this;value;" ParamCnt="2" />
 <Method Token="100663437" Name="ToString" Variables="this;V_0;" ParamCnt="1" />
-<Field Token="67108988" Name="_text" />
-<Field Token="67108989" Name="_imageIndex" />
+<Field Token="67108989" Name="_text" />
+<Field Token="67108990" Name="_imageIndex" />
 <Type Token="33554447" Name="AutoMouseControlFocus.Module" />
 <Method Token="100663438" Name=".ctor" Variables="this;" ParamCnt="1" />
 <Method Token="100663439" Name=".cctor" Variables="" ParamCnt="0" />
@@ -865,21 +867,21 @@
 <Method Token="100663450" Name="DownloadPage" Variables="uri;client;data;reader;s;V_4;ex;" ParamCnt="1" />
 <Method Token="100663451" Name="RunAdminAction" Variables="args;pr;V_1;V_2;V_3;" ParamCnt="1" />
 <Method Token="100663452" Name="DeleteApplicationSettingsFile" Variables="settingsFile;fi;V_2;ex;" ParamCnt="0" />
-<Field Token="67108990" Name="BlueForeColor" />
-<Field Token="67108991" Name="ApplicationName" />
-<Field Token="67108992" Name="Version" />
-<Field Token="67108993" Name="Ver" />
-<Field Token="67108994" Name="ShortApplicationTitle" />
-<Field Token="67108995" Name="ApplicationTitle" />
-<Field Token="67108996" Name="DownloadURL" />
-<Field Token="67108997" Name="HelpURL" />
-<Field Token="67108998" Name="ProductWebpageURL" />
-<Field Token="67108999" Name="BuyURL" />
-<Field Token="67109000" Name="VersionURL" />
-<Field Token="67109001" Name="NumberOfFilesProcessed" />
-<Field Token="67109002" Name="TipText" />
-<Field Token="67109003" Name="SelectedLanguage" />
-<Field Token="67109004" Name="args" />
+<Field Token="67108991" Name="BlueForeColor" />
+<Field Token="67108992" Name="ApplicationName" />
+<Field Token="67108993" Name="Version" />
+<Field Token="67108994" Name="Ver" />
+<Field Token="67108995" Name="ShortApplicationTitle" />
+<Field Token="67108996" Name="ApplicationTitle" />
+<Field Token="67108997" Name="DownloadURL" />
+<Field Token="67108998" Name="HelpURL" />
+<Field Token="67108999" Name="ProductWebpageURL" />
+<Field Token="67109000" Name="BuyURL" />
+<Field Token="67109001" Name="VersionURL" />
+<Field Token="67109002" Name="NumberOfFilesProcessed" />
+<Field Token="67109003" Name="TipText" />
+<Field Token="67109004" Name="SelectedLanguage" />
+<Field Token="67109005" Name="args" />
 <Type Token="33554448" Name="AutoMouseControlFocus.TranslateHelper" />
 <Method Token="100663453" Name=".ctor" Variables="this;" ParamCnt="1" />
 <Method Token="100663454" Name="Translate" Variables="str;V_0;" ParamCnt="1" />
@@ -900,22 +902,22 @@
 <Method Token="100663471" Name="OnPaint" Variables="this;e;ym;captionSizeF;captionLength;beforeCaption;afterCaption;V_5;V_6;V_7;V_8;V_9;V_10;V_11;" ParamCnt="2" />
 <Method Token="100663472" Name="OnResize" Variables="this;e;" ParamCnt="2" />
 <Method Token="100663473" Name="OnFontChanged" Variables="this;e;" ParamCnt="2" />
-<Field Token="67109006" Name="components" />
-<Field Token="67109007" Name="_Caption" />
-<Field Token="67109008" Name="_CaptionMarginSpace" />
-<Field Token="67109009" Name="_CaptionPadding" />
-<Field Token="67109010" Name="_LineVerticalAlign" />
-<Field Token="67109011" Name="_CaptionOrizontalAlign" />
+<Field Token="67109007" Name="components" />
+<Field Token="67109008" Name="_Caption" />
+<Field Token="67109009" Name="_CaptionMarginSpace" />
+<Field Token="67109010" Name="_CaptionPadding" />
+<Field Token="67109011" Name="_LineVerticalAlign" />
+<Field Token="67109012" Name="_CaptionOrizontalAlign" />
 <Type Token="33554451" Name="AutoMouseControlFocus.LineVerticalAlign" />
-<Field Token="67109012" Name="value__" />
-<Field Token="67109013" Name="Top" />
-<Field Token="67109014" Name="Middle" />
-<Field Token="67109015" Name="Bottom" />
+<Field Token="67109013" Name="value__" />
+<Field Token="67109014" Name="Top" />
+<Field Token="67109015" Name="Middle" />
+<Field Token="67109016" Name="Bottom" />
 <Type Token="33554452" Name="AutoMouseControlFocus.CaptionOrizontalAlign" />
-<Field Token="67109016" Name="value__" />
-<Field Token="67109017" Name="Left" />
-<Field Token="67109018" Name="Center" />
-<Field Token="67109019" Name="Right" />
+<Field Token="67109017" Name="value__" />
+<Field Token="67109018" Name="Left" />
+<Field Token="67109019" Name="Center" />
+<Field Token="67109020" Name="Right" />
 <Type Token="33554454" Name="AutoMouseControlFocus.Program" />
 <Method Token="100663481" Name="Main" Variables="args;V_0;" ParamCnt="1" />
 <Type Token="33554455" Name="AutoMouseControlFocus.ResFlags" />
@@ -970,8 +972,8 @@
 <Method Token="100663530" Name="get_flag_turkey" Variables="obj;V_1;" ParamCnt="0" />
 <Method Token="100663531" Name="get_flag_ukraine" Variables="obj;V_1;" ParamCnt="0" />
 <Method Token="100663532" Name="get_flag_vietnam" Variables="obj;V_1;" ParamCnt="0" />
-<Field Token="67109026" Name="resourceMan" />
-<Field Token="67109027" Name="resourceCulture" />
+<Field Token="67109027" Name="resourceMan" />
+<Field Token="67109028" Name="resourceCulture" />
 <Type Token="33554456" Name="AutoMouseControlFocus.ResTranslate" />
 <Method Token="100663533" Name=".ctor" Variables="this;" ParamCnt="1" />
 <Method Token="100663534" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
@@ -997,8 +999,8 @@
 <Method Token="100663554" Name="get_This_is_the_latest_version__" Variables="V_0;" ParamCnt="0" />
 <Method Token="100663555" Name="get_Unspecified_Error" Variables="V_0;" ParamCnt="0" />
 <Method Token="100663556" Name="get_Warning" Variables="V_0;" ParamCnt="0" />
-<Field Token="67109028" Name="resourceMan" />
-<Field Token="67109029" Name="resourceCulture" />
+<Field Token="67109029" Name="resourceMan" />
+<Field Token="67109030" Name="resourceCulture" />
 <Type Token="33554457" Name="AutoMouseControlFocus.RunAtWndowsStartupManager" />
 <Method Token="100663557" Name=".ctor" Variables="this;" ParamCnt="1" />
 <Method Token="100663558" Name="get_RunAtWindowsStartup" Variables="key;V_1;" ParamCnt="0" />
@@ -1011,9 +1013,9 @@
 <Method Token="100663564" Name="WndProc" Variables="this;m;V_0;V_1;graphics;font;textSize;" ParamCnt="2" />
 <Method Token="100663565" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
 <Method Token="100663566" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
-<Field Token="67109030" Name="lblText" />
-<Field Token="67109031" Name="WmPaint" />
-<Field Token="67109032" Name="components" />
+<Field Token="67109031" Name="lblText" />
+<Field Token="67109032" Name="WmPaint" />
+<Field Token="67109033" Name="components" />
 <Type Token="33554459" Name="AutoMouseControlFocus.UpdateHelper" />
 <Method Token="100663567" Name=".ctor" Variables="this;" ParamCnt="1" />
 <Method Token="100663568" Name=".cctor" Variables="" ParamCnt="0" />
@@ -1025,12 +1027,12 @@
 <Method Token="100663574" Name="CheckVersionBackground" Variables="onstart;res;str;V_3;V_4;V_5;epos;price;V_8;sr;line;found;epos;title;version;app;V_16;verdotpos;vermajor;verminor;curverepos;V_21;curver;dotpos;curmajor;curminor;V_26;V_27;V_28;V_29;V_30;V_31;V_32;V_33;V_34;" ParamCnt="0" />
 <Method Token="100663575" Name="DownloadPage" Variables="uri;client;data;reader;s;V_4;ex;" ParamCnt="1" />
 <Method Token="100663576" Name="CheckVersion" Variables="onstart;str;V_1;sr;line;found;epos;title;version;epos2;app;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;" ParamCnt="1" />
-<Field Token="67109033" Name="bwCheckVersion" />
+<Field Token="67109034" Name="bwCheckVersion" />
 <Type Token="33554460" Name="AutoMouseControlFocus.CheckVersionResult" />
 <Method Token="100663577" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Field Token="67109034" Name="NewVersionReleased" />
-<Field Token="67109035" Name="ItIsNecessaryToUpdate" />
-<Field Token="67109036" Name="OutputMessage" />
+<Field Token="67109035" Name="NewVersionReleased" />
+<Field Token="67109036" Name="ItIsNecessaryToUpdate" />
+<Field Token="67109037" Name="OutputMessage" />
 <Type Token="33554461" Name="AutoMouseControlFocus.URLLinkLabel" />
 <Method Token="100663578" Name=".ctor" Variables="this;" ParamCnt="1" />
 <Method Token="100663579" Name="OnClick" Variables="this;e;" ParamCnt="2" />
@@ -1043,7 +1045,7 @@
 <Method Token="100663585" Name="GetCursorPos" Variables="lpPoint;" ParamCnt="1" />
 <Method Token="100663586" Name="GetCursorPosition" Variables="lpPoint;V_1;" ParamCnt="0" />
 <Method Token="100663587" Name="DrawReversibleFrame" Variables="re;V_0;" ParamCnt="1" />
-<Field Token="67109037" Name="LastFramedRectangle" />
+<Field Token="67109038" Name="LastFramedRectangle" />
 <Type Token="33554463" Name="AutoMouseControlFocus.RECT" />
 <Method Token="100663588" Name=".ctor" Variables="this;left;top;right;bottom;" ParamCnt="5" />
 <Method Token="100663589" Name=".ctor" Variables="this;rect;" ParamCnt="2" />
@@ -1052,16 +1054,16 @@
 <Method Token="100663592" Name="get_Height" Variables="this;V_0;" ParamCnt="1" />
 <Method Token="100663593" Name="set_Height" Variables="this;value;" ParamCnt="2" />
 <Method Token="100663594" Name="ToRectangle" Variables="this;V_0;" ParamCnt="1" />
-<Field Token="67109038" Name="Left" />
-<Field Token="67109039" Name="Top" />
-<Field Token="67109040" Name="Right" />
-<Field Token="67109041" Name="Bottom" />
+<Field Token="67109039" Name="Left" />
+<Field Token="67109040" Name="Top" />
+<Field Token="67109041" Name="Right" />
+<Field Token="67109042" Name="Bottom" />
 <Type Token="33554464" Name="AutoMouseControlFocus.WindowHandleInfo" />
 <Method Token="100663595" Name=".ctor" Variables="this;handle;" ParamCnt="2" />
 <Method Token="100663596" Name="EnumChildWindows" Variables="window;callback;lParam;" ParamCnt="3" />
 <Method Token="100663597" Name="GetAllChildHandles" Variables="this;childHandles;gcChildhandlesList;pointerChildHandlesList;childProc;V_4;" ParamCnt="1" />
 <Method Token="100663598" Name="EnumWindow" Variables="this;hWnd;lParam;gcChildhandlesList;childHandles;V_2;V_3;" ParamCnt="3" />
-<Field Token="67109042" Name="_MainHandle" />
+<Field Token="67109043" Name="_MainHandle" />
 <Type Token="33554465" Name="AutoMouseControlFocus.Properties.Resources" />
 <Method Token="100663599" Name=".ctor" Variables="this;" ParamCnt="1" />
 <Method Token="100663600" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
@@ -1121,8 +1123,8 @@
 <Method Token="100663654" Name="get_twitter_32" Variables="obj;V_1;" ParamCnt="0" />
 <Method Token="100663655" Name="get_warning" Variables="obj;V_1;" ParamCnt="0" />
 <Method Token="100663656" Name="get_youtube_32" Variables="obj;V_1;" ParamCnt="0" />
-<Field Token="67109043" Name="resourceMan" />
-<Field Token="67109044" Name="resourceCulture" />
+<Field Token="67109044" Name="resourceMan" />
+<Field Token="67109045" Name="resourceCulture" />
 <Type Token="33554466" Name="AutoMouseControlFocus.Properties.Settings" />
 <Method Token="100663657" Name=".ctor" Variables="this;" ParamCnt="1" />
 <Method Token="100663658" Name=".cctor" Variables="" ParamCnt="0" />
@@ -1157,7 +1159,7 @@
 <Method Token="100663687" Name="set_Top" Variables="this;value;" ParamCnt="2" />
 <Method Token="100663688" Name="get_Left" Variables="this;V_0;" ParamCnt="1" />
 <Method Token="100663689" Name="set_Left" Variables="this;value;" ParamCnt="2" />
-<Field Token="67109045" Name="defaultInstance" />
+<Field Token="67109046" Name="defaultInstance" />
 <Type Token="33554467" Name="AutoMouseControlFocus.CursorManager/Win32Api" />
 <Method Token="100663690" Name=".ctor" Variables="this;" ParamCnt="1" />
 <Method Token="100663691" Name="LoadCursorFromFile" Variables="lpFileName;" ParamCnt="1" />
@@ -1165,33 +1167,33 @@
 <Method Token="100663693" Name="DeleteObject" Variables="handle;" ParamCnt="1" />
 <Method Token="100663694" Name="CopyIcon" Variables="hIcon;" ParamCnt="1" />
 <Method Token="100663695" Name="LoadCursor" Variables="hInstance;type;" ParamCnt="2" />
-<Field Token="67109046" Name="OCR_NORMAL" />
-<Field Token="67109047" Name="OCR_NO" />
-<Field Token="67109048" Name="IDC_ARROW" />
+<Field Token="67109047" Name="OCR_NORMAL" />
+<Field Token="67109048" Name="OCR_NO" />
+<Field Token="67109049" Name="IDC_ARROW" />
 <Type Token="33554468" Name="AutoMouseControlFocus.frmMain/GetAncestorFlags" />
-<Field Token="67109049" Name="value__" />
-<Field Token="67109050" Name="GetParent" />
-<Field Token="67109051" Name="GetRoot" />
-<Field Token="67109052" Name="GetRootOwner" />
+<Field Token="67109050" Name="value__" />
+<Field Token="67109051" Name="GetParent" />
+<Field Token="67109052" Name="GetRoot" />
+<Field Token="67109053" Name="GetRootOwner" />
 <Type Token="33554469" Name="AutoMouseControlFocus.frmMain/WindowShowStyle" />
-<Field Token="67109053" Name="value__" />
-<Field Token="67109054" Name="Hide" />
-<Field Token="67109055" Name="ShowNormal" />
-<Field Token="67109056" Name="ShowMinimized" />
-<Field Token="67109057" Name="ShowMaximized" />
-<Field Token="67109058" Name="Maximize" />
-<Field Token="67109059" Name="ShowNormalNoActivate" />
-<Field Token="67109060" Name="Show" />
-<Field Token="67109061" Name="Minimize" />
-<Field Token="67109062" Name="ShowMinNoActivate" />
-<Field Token="67109063" Name="ShowNoActivate" />
-<Field Token="67109064" Name="Restore" />
-<Field Token="67109065" Name="ShowDefault" />
-<Field Token="67109066" Name="ForceMinimized" />
+<Field Token="67109054" Name="value__" />
+<Field Token="67109055" Name="Hide" />
+<Field Token="67109056" Name="ShowNormal" />
+<Field Token="67109057" Name="ShowMinimized" />
+<Field Token="67109058" Name="ShowMaximized" />
+<Field Token="67109059" Name="Maximize" />
+<Field Token="67109060" Name="ShowNormalNoActivate" />
+<Field Token="67109061" Name="Show" />
+<Field Token="67109062" Name="Minimize" />
+<Field Token="67109063" Name="ShowMinNoActivate" />
+<Field Token="67109064" Name="ShowNoActivate" />
+<Field Token="67109065" Name="Restore" />
+<Field Token="67109066" Name="ShowDefault" />
+<Field Token="67109067" Name="ForceMinimized" />
 <Type Token="33554470" Name="AutoMouseControlFocus.Win32Api/POINT" />
 <Method Token="100663696" Name="op_Implicit" Variables="point;V_0;" ParamCnt="1" />
-<Field Token="67109067" Name="X" />
-<Field Token="67109068" Name="Y" />
+<Field Token="67109068" Name="X" />
+<Field Token="67109069" Name="Y" />
 <Type Token="33554471" Name="AutoMouseControlFocus.WindowHandleInfo/EnumWindowProc" />
 <Method Token="100663697" Name=".ctor" Variables="this;object;method;" ParamCnt="3" />
 <Method Token="100663698" Name="Invoke" Variables="this;hwnd;lParam;" ParamCnt="3" />

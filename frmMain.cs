@@ -337,25 +337,42 @@ namespace AutoMouseControlFocus
         IntPtr focusedControlHandle = IntPtr.Zero;
 
         private int Wait = 0;
-
+        private Stopwatch sw = new Stopwatch();
         private void timFocus_Tick(object sender, EventArgs e)
         {
+            /*
             if (Wait!=0)
             {
                 Wait--;
                 return;
+            }
+            */
+
+            if (sw.IsRunning && sw.ElapsedMilliseconds<(SystemInformation.DoubleClickTime+1000))
+            {
+                return;
+            }
+            else if (sw.IsRunning)
+            {
+                sw.Stop();
             }
 
             int maxWait = 50;
 
             if ((Control.MouseButtons & MouseButtons.Left)==MouseButtons.Left)
             {
+                sw.Stop();
+                sw.Reset();
+                sw.Start();
                 Wait = maxWait;
                 return;
             }
 
             if ((Control.MouseButtons & MouseButtons.Right) == MouseButtons.Right)
             {
+                sw.Stop();
+                sw.Reset();
+                sw.Start();
                 Wait = maxWait;
 
                 return;
@@ -363,6 +380,9 @@ namespace AutoMouseControlFocus
 
             if ((Control.MouseButtons & MouseButtons.Middle) == MouseButtons.Middle)
             {
+                sw.Stop();
+                sw.Reset();
+                sw.Start();
                 Wait = maxWait;
 
                 return;
@@ -370,6 +390,10 @@ namespace AutoMouseControlFocus
 
             if ((Control.MouseButtons & MouseButtons.XButton1) == MouseButtons.XButton1)
             {
+                sw.Stop();
+                sw.Reset();
+                sw.Start();
+
                 Wait = maxWait;
 
                 return;
@@ -378,6 +402,10 @@ namespace AutoMouseControlFocus
 
             if ((Control.MouseButtons & MouseButtons.XButton2) == MouseButtons.XButton2)
             {
+                sw.Stop();
+                sw.Reset();
+                sw.Start();
+
                 Wait = maxWait;
 
                 return;
